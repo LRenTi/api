@@ -1,8 +1,9 @@
 # Cache
 **/__pycache__/
 
-# Virtual Environment
+#Environments
 .venv/
+*.env
 
 # IDE
 .vscode/
