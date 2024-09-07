@@ -167,7 +167,7 @@ def get_routes(path, table):
                         "longitude": airport_info[2] if airport_info else None,
                     }
         newdata["routes"] = routes
-        folder = "data/routes/"
+        folder = "flylat/data/routes/"
         mkdir(folder)
         newpath = os.path.join(folder, f"{data['id']}.json")
         with open(newpath, "w") as f:
