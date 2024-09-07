@@ -1,4 +1,4 @@
-name: Create Daily API Data
+name: Daily API Data
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute Python script
         env:
-          SOME_SECRET: ${{ secrets.TOKEN }}
+          SOME_SECRET: ${{ secrets.API_TOKEN }}
         run: python daily.py
         
       - name: Commit files
