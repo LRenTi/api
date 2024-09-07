@@ -23,6 +23,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Execute Python script
+        env:
+          SOME_SECRET: ${{ secrets.TOKEN }}
         run: python daily.py
         
       - name: Commit files
