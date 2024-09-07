@@ -101,7 +101,7 @@ def get_airport_info(icao_code):
     """Fetches airport information using an external API."""
     load_dotenv()
 
-    api_token = os.getenv("API_TOKEN")
+    api_token = os.environ("API_TOKEN")
     url = f"https://airportdb.io/api/v1/airport/{icao_code}?apiToken={api_token}"
 
     try:
@@ -116,6 +116,9 @@ def get_airport_info(icao_code):
         return name, latitude, longitude
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data for {icao_code}: {e}")
+        return None, None, None
+    except KeyError as e:
+        print(f"Error processing data for {icao_code}: {e}")
         return None, None, None
 
 
