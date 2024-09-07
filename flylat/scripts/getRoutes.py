@@ -211,7 +211,7 @@ def extract_departure_destination(id):
     except Exception as e:
         print(f"Error processing routes for airline ID {id}: {e}")
         return None
-    save_path = f"data/tmp_{id}.json"
+    save_path = f"flylat/data/tmp_{id}.json"
     with open(save_path, "w", encoding="utf-8") as f:
         json.dump(data, f)
         tqdm.write("Extracted data saved successfully.")
