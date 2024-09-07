@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute Python script
         env:
-          SOME_SECRET: ${{ secrets.API_TOKEN }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
         run: python daily.py
         
       - name: Commit files
