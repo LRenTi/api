@@ -1,5 +1,4 @@
-{
-    [
+[
         {
             "Name": "B-LAA",
             "occupied": "FREE",
@@ -294,8 +293,8 @@
             "Name": "OE-FAB",
             "occupied": "FREE",
             "Hub": "LOWW"
-        }
-		        {
+        },
+		{
             "Name": "OE-FAC",
             "occupied": "FREE",
             "Hub": "LOWW"
@@ -305,5 +304,4 @@
             "occupied": "FREE",
             "Hub": "LOWW"
         }
-    ]
-}
+]
