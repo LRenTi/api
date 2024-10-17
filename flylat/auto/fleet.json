@@ -1,0 +1,309 @@
+{
+    [
+        {
+            "Name": "B-LAA",
+            "occupied": "FREE",
+            "Hub": "VHHH"
+        },
+        {
+            "Name": "B-LAB",
+            "occupied": "FREE",
+            "Hub": "VHHH"
+        },
+        {
+            "Name": "D-AVAA",
+            "occupied": "FREE",
+            "Hub": "EDDM"
+        },
+        {
+            "Name": "D-AVAB",
+            "occupied": "FREE",
+            "Hub": "EDDM"
+        },
+        {
+            "Name": "D-AVAC",
+            "occupied": "FREE",
+            "Hub": "EDDM"
+        },
+        {
+            "Name": "EC-AVA",
+            "occupied": "FREE",
+            "Hub": "LEBL"
+        },
+        {
+            "Name": "EC-AVB",
+            "occupied": "FREE",
+            "Hub": "LEBL"
+        },
+        {
+            "Name": "G-FXAA",
+            "occupied": "FREE",
+            "Hub": "EGGL"
+        },
+        {
+            "Name": "G-FXAB",
+            "occupied": "FREE",
+            "Hub": "EGGL"
+        },
+        {
+            "Name": "N103AX",
+            "occupied": "FREE",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "N105AX",
+            "occupied": "FREE",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "N106AX",
+            "occupied": "FREE",
+            "Hub": "KLAX"
+        },
+        {
+            "Name": "OE-LAA",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LAB",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LNA",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LUMX",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZG",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZI",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZJ",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-NSE",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "N108AX",
+            "occupied": "FREE",
+            "Hub": "KLAX"
+        },
+        {
+            "Name": "N107AX",
+            "occupied": "AI",
+            "Hub": "KLAX"
+        },
+        {
+            "Name": "N101AX",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "N102AX",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "N104AX",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "OE-AIX",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-AIY",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-AIZ",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+        {
+            "Name": "OE-ENA",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-ENB",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-ENC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LNB",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LNC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LND",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZA",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZB",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZD",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZE",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZF",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZH",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-LZK",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFA",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFB",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFD",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFE",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFF",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFG",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-SFH",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THA",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THB",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THD",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THE",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THF",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-THG",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-FAA",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-FAB",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        }
+		        {
+            "Name": "OE-FAC",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+        {
+            "Name": "OE-FAD",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        }
+    ]
+}
