@@ -60,7 +60,7 @@
         "Destination": "LCLK"
     },
     {
-        "Route": "VIEDUB300",
+        "Route": "VIEDXB300",
         "Name": "OE-THE",
         "Departure": "LOWW",
         "Destination": "OMDB"
@@ -84,7 +84,7 @@
         "Destination": "VHHH"
     },
     {
-        "Route": "VIEIRE320",
+        "Route": "VIEDUB320",
         "Name": "OE-LZA",
         "Departure": "LOWW",
         "Destination": "EIDW"
