@@ -303,5 +303,10 @@
             "Name": "OE-FAD",
             "occupied": "FREE",
             "Hub": "LOWW"
+        },
+		{
+            "Name": "OE-THH",
+            "occupied": "FREE",
+            "Hub": "LOWW"
         }
 ]
