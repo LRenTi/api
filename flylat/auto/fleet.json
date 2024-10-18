@@ -306,7 +306,7 @@
         },
 		{
             "Name": "OE-THH",
-            "occupied": "FREE",
+            "occupied": "Survival",
             "Hub": "LOWW"
         }
 ]
