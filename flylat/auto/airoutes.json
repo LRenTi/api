@@ -214,5 +214,17 @@
         "Name": "N107AX",
         "Departure": "KLAX",
         "Destination": "PHNL"
+    },
+    {
+        "Route": "LHRKEF330",
+        "Name": "G-FXAA",
+        "Departure": "EGLL",
+        "Destination": "BIKF"
+    },
+    {
+        "Route": "LHRBCN320",
+        "Name": "OE-LZI",
+        "Departure": "EGLL",
+        "Destination": "LEBL"
     }
 ]
