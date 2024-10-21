@@ -226,5 +226,11 @@
         "Name": "OE-LZI",
         "Departure": "EGLL",
         "Destination": "LEBL"
+    },
+    {
+        "Route": "LHRJFK330",
+        "Name": "G-FXAC",
+        "Departure": "EGLL",
+        "Destination": "KJFK"
     }
 ]
