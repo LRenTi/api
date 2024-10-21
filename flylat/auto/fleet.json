@@ -36,7 +36,7 @@
         },
         {
             "Name": "G-FXAA",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "EGGL"
         },
         {
@@ -86,8 +86,8 @@
         },
         {
             "Name": "OE-LZI",
-            "occupied": "FREE",
-            "Hub": "LOWW"
+            "occupied": "AI",
+            "Hub": "EGLL"
         },
         {
             "Name": "OE-LZJ",
