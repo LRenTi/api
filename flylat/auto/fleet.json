@@ -304,9 +304,14 @@
             "occupied": "FREE",
             "Hub": "LOWW"
         },
-		{
+	{
             "Name": "OE-THH",
             "occupied": "Survival",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "G-FXAC",
+            "occupied": "AI",
+            "Hub": "EGLL"
         }
 ]
