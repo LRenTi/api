@@ -6,16 +6,16 @@
             "callsign": "HRN",
             "location": "EGSS",
             "owner_id": "51627",
-            "cash": "$61,728,483.00",
-            "cash_friendly": "$61.73 M",
+            "cash": "$61,777,428.00",
+            "cash_friendly": "$61.78 M",
             "rep": "77,551",
             "cargo_rep": "0",
             "news": [
-                "Heron Airways recently opened a direct route between London and Zadar",
-                "Heron Airways is now connecting London and Faro",
+                "Heron Airways is now connecting London and Zadar",
+                "Heron Airways recently opened a direct route between London and Faro",
                 "Heron Airways recently opened a direct route between London and Lublin",
                 "Heron Airways started flying directly between London and Rzeszow",
-                "Heron Airways is now connecting Brussels and Warsaw"
+                "Heron Airways started flying directly between Brussels and Warsaw"
             ],
             "week_flights": "0",
             "discord": "wU2dYsrCPm",

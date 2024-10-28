@@ -18,7 +18,6 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-
 def scrape_data(url):
     try:
         response = requests.get(url)
@@ -31,20 +30,43 @@ def scrape_data(url):
 def save_data(data_dict):
     for airline_id, data_info in data_dict.items():
         date_key = data_info['time'].strftime('%Y-%m-%d')
-        file_path = f'flylat/data/companyData/daily/{airline_id}.json'
+        daily_file_path = f'flylat/data/companyData/daily/{airline_id}.json'
 
-        if os.path.exists(file_path):
-            with open(file_path, 'r', encoding='utf-8') as f:
+        # Speichern der täglichen Daten
+        existing_data = {}
+        if os.path.exists(daily_file_path):
+            with open(daily_file_path, 'r', encoding='utf-8') as f:
                 existing_data = json.load(f)
-        else:
-            existing_data = {}
 
         # Ersetze alle Einträge für diesen Tag
         existing_data[date_key] = [data_info['data']]
-
-        # Speichern der aktualisierten Daten in der JSON-Datei
-        with open(file_path, 'w', encoding='utf-8') as f:
+        
+        # Speichern der täglichen Daten
+        with open(daily_file_path, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=4)
+
+        # Überprüfen, ob es der letzte Tag des Monats ist
+        if is_last_day_of_month(data_info['time']):
+            monthly_file_path = f'flylat/data/companyData/monthly/{airline_id}.json'
+            os.makedirs(os.path.dirname(monthly_file_path), exist_ok=True)
+
+            # Speichern der monatlichen Daten
+            monthly_existing_data = {}
+            if os.path.exists(monthly_file_path):
+                with open(monthly_file_path, 'r', encoding='utf-8') as f:
+                    monthly_existing_data = json.load(f)
+
+            # Ersetze alle Einträge für diesen Monat
+            month_key = data_info['time'].strftime('%Y-%m')
+            monthly_existing_data[month_key] = [data_info['data']]
+
+            # Speichern der monatlichen Daten
+            with open(monthly_file_path, 'w', encoding='utf-8') as f:
+                json.dump(monthly_existing_data, f, indent=4)
+
+def is_last_day_of_month(date):
+    next_day = date + datetime.timedelta(days=1)
+    return next_day.month != date.month
 
 def main():
     utc_time = datetime.datetime.now(datetime.timezone.utc)
@@ -63,8 +85,7 @@ def main():
             url = f"https://flylat.net/company/get_data.php?id={airline_id}"
             futures[executor.submit(scrape_data, url)] = airline_id
 
-        for future in futures:
-            airline_id = futures[future]
+        for future, airline_id in futures.items():  # Verwendung von .items() hier
             try:
                 new_data = future.result()
                 if new_data is not None:  # Überprüfe, ob die Daten erfolgreich abgerufen wurden

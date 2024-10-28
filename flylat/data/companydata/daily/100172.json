@@ -6,16 +6,16 @@
             "callsign": "AVA",
             "location": "LOWW",
             "owner_id": "55519",
-            "cash": "$831,857,491.00",
-            "cash_friendly": "$831.86 M",
+            "cash": "$832,119,548.00",
+            "cash_friendly": "$832.12 M",
             "rep": "10,475",
             "cargo_rep": "0",
             "news": [
-                "AVIAN Air started flying directly between Athens and Rome",
-                "AVIAN Air recently opened a direct route between Tokyo and Taipei",
-                "AVIAN Air is now connecting Tokyo and Osaka",
-                "AVIAN Air is now connecting Tokyo and Kumamoto",
-                "People of Tokyo and Fukuoka are now happy for a direct connection by AVIAN Air"
+                "People of Athens and Rome are now happy for a direct connection by AVIAN Air",
+                "AVIAN Air started flying directly between Tokyo and Taipei",
+                "People of Tokyo and Osaka are now happy for a direct connection by AVIAN Air",
+                "People of Tokyo and Kumamoto are now happy for a direct connection by AVIAN Air",
+                "AVIAN Air started flying directly between Tokyo and Fukuoka"
             ],
             "week_flights": "0",
             "discord": "MzsVeaHBjb",
