@@ -1,8 +1,10 @@
 import flylat.scripts.getRoutes as getRoutes
+import flylat.scripts.getCompanyData as getCompanyData
 
 
 def main():
-    # FlyLat getRoutes
+    
+    getCompanyData.main()
     getRoutes.main()
 
 
