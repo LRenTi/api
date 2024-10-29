@@ -30,7 +30,7 @@ def scrape_data(url):
 def save_data(data_dict):
     for airline_id, data_info in data_dict.items():
         date_key = data_info['time'].strftime('%Y-%m-%d')
-        daily_file_path = f'flylat/data/companyData/daily/{airline_id}.json'
+        daily_file_path = f'flylat/data/companydata/daily/{airline_id}.json'
 
         # Speichern der täglichen Daten
         existing_data = {}
@@ -47,7 +47,7 @@ def save_data(data_dict):
 
         # Überprüfen, ob es der letzte Tag des Monats ist
         if is_last_day_of_month(data_info['time']):
-            monthly_file_path = f'flylat/data/companyData/monthly/{airline_id}.json'
+            monthly_file_path = f'flylat/data/companydata/monthly/{airline_id}.json'
             os.makedirs(os.path.dirname(monthly_file_path), exist_ok=True)
 
             # Speichern der monatlichen Daten
