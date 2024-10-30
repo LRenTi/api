@@ -70,7 +70,7 @@ def is_last_day_of_month(date):
 
 def main():
     utc_time = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=5)
-    print("Collecting company data at", utc_time)
+    print("Collecting company data for", utc_time.strftime('%Y-%m-%d %H:%M:%S'))
     airline_file = "flylat/data/airlines.json"
     os.makedirs('flylat/data/companydata/daily', exist_ok=True)
     
