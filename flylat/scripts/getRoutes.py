@@ -232,6 +232,8 @@ def extract_departure_destination(id):
 
 def main():
     """Main function that loads airports, processes routes, and updates the table."""
+    
+    print("Starting route data retrieval...")
     filename = "airports"
     airline_file = "flylat/data/airlines.json"
     airport_table = Hashtable()
