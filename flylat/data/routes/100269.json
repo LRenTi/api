@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1730246281.0839832,
+    "updateTimestamp": 1730248813.1412942,
     "routes": [
         {
             "route_id": 0,
@@ -187,7 +187,7 @@
         },
         {
             "route_id": 7,
-            "profit": 1201162,
+            "profit": 1245497,
             "ticketpp": 300,
             "distance": "809",
             "flown": 9,
@@ -707,6 +707,32 @@
         },
         {
             "route_id": 27,
+            "profit": 205423,
+            "ticketpp": 392,
+            "distance": "1317",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "ENGM",
+                "name": "Oslo Gardermoen Airport",
+                "latitude": 60.193901062012,
+                "longitude": 11.100399971008,
+                "municipality": "Oslo",
+                "iso_country": "NO",
+                "iso_region": "NO-02"
+            }
+        },
+        {
+            "route_id": 28,
             "profit": 181577,
             "ticketpp": 123,
             "distance": "893",
@@ -732,7 +758,7 @@
             }
         },
         {
-            "route_id": 28,
+            "route_id": 29,
             "profit": 155598,
             "ticketpp": 744,
             "distance": "3254",
@@ -758,7 +784,7 @@
             }
         },
         {
-            "route_id": 29,
+            "route_id": 30,
             "profit": 155000,
             "ticketpp": 405,
             "distance": "1385",
@@ -781,32 +807,6 @@
                 "municipality": "Skiathos",
                 "iso_country": "GR",
                 "iso_region": "GR-43"
-            }
-        },
-        {
-            "route_id": 30,
-            "profit": 147660,
-            "ticketpp": 392,
-            "distance": "1317",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "ENGM",
-                "name": "Oslo Gardermoen Airport",
-                "latitude": 60.193901062012,
-                "longitude": 11.100399971008,
-                "municipality": "Oslo",
-                "iso_country": "NO",
-                "iso_region": "NO-02"
             }
         },
         {
@@ -889,6 +889,32 @@
         },
         {
             "route_id": 34,
+            "profit": 136405,
+            "ticketpp": 395,
+            "distance": "1330",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "EGPH",
+                "name": "Edinburgh Airport",
+                "latitude": 55.95000076293945,
+                "longitude": -3.372499942779541,
+                "municipality": "Edinburgh",
+                "iso_country": "GB",
+                "iso_region": "GB-SCT"
+            }
+        },
+        {
+            "route_id": 35,
             "profit": 125901,
             "ticketpp": 300,
             "distance": "811",
@@ -914,7 +940,7 @@
             }
         },
         {
-            "route_id": 35,
+            "route_id": 36,
             "profit": 124214,
             "ticketpp": 379,
             "distance": "1256",
@@ -937,32 +963,6 @@
                 "municipality": "Cork",
                 "iso_country": "IE",
                 "iso_region": "IE-C"
-            }
-        },
-        {
-            "route_id": 36,
-            "profit": 87645,
-            "ticketpp": 395,
-            "distance": "1330",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "EGPH",
-                "name": "Edinburgh Airport",
-                "latitude": 55.95000076293945,
-                "longitude": -3.372499942779541,
-                "municipality": "Edinburgh",
-                "iso_country": "GB",
-                "iso_region": "GB-SCT"
             }
         },
         {
