@@ -1,5 +1,5 @@
 {
-    "2024-10-28": [
+    "2024-10-28": 
         {
             "company_id": "100079",
             "name": "Heron Airways",
@@ -84,8 +84,8 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ],
-    "2024-10-29": [
+    ,
+    "2024-10-29": 
         {
             "company_id": "100079",
             "name": "Heron Airways",
@@ -170,8 +170,8 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ],
-    "2024-10-30": [
+    ,
+    "2024-10-30": 
         {
             "company_id": "100079",
             "name": "Heron Airways",
@@ -256,8 +256,8 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ],
-    "2024-10-31": [
+    ,
+    "2024-10-31": 
         {
             "company_id": "100079",
             "name": "Heron Airways",
@@ -344,8 +344,8 @@
             "jobsoffered": "1",
             "jobsactive": "1"
         }
-    ],
-    "2024-11-30": [
+    ,
+    "2024-11-30": 
         {
             "company_id": "100079",
             "name": "Heron Airways",
@@ -432,5 +432,4 @@
             "jobsoffered": "1",
             "jobsactive": "1"
         }
-    ]
 }

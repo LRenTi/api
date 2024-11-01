@@ -39,7 +39,7 @@ def save_data(data_dict):
                 existing_data = json.load(f)
 
         # Ersetze alle Einträge für diesen Tag
-        existing_data[date_key] = [data_info['data']]
+        existing_data[date_key] = {date_key: data_info['data']}
         
         # Speichern der täglichen Daten
         with open(daily_file_path, 'w', encoding='utf-8') as f:

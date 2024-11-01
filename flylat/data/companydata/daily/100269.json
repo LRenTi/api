@@ -1,5 +1,5 @@
 {
-    "2024-10-28": [
+    "2024-10-28":
         {
             "company_id": "100269",
             "name": "Apollo Airways",
@@ -73,9 +73,8 @@
             "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
             "jobsoffered": "1",
             "jobsactive": "1"
-        }
-    ],
-    "2024-10-29": [
+        },
+    "2024-10-29":
         {
             "company_id": "100269",
             "name": "Apollo Airways",
@@ -147,9 +146,8 @@
             "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
             "jobsoffered": "1",
             "jobsactive": "1"
-        }
-    ],
-    "2024-10-30": [
+        },
+    "2024-10-30":
         {
             "company_id": "100269",
             "name": "Apollo Airways",
@@ -221,9 +219,8 @@
             "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
             "jobsoffered": "1",
             "jobsactive": "1"
-        }
-    ],
-    "2024-10-31": [
+        },
+    "2024-10-31":
         {
             "company_id": "100269",
             "name": "Apollo Airways",
@@ -295,9 +292,8 @@
             "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
             "jobsoffered": "1",
             "jobsactive": "1"
-        }
-    ],
-    "2024-11-30": [
+        },
+    "2024-11-30":
         {
             "company_id": "100269",
             "name": "Apollo Airways",
@@ -370,5 +366,4 @@
             "jobsoffered": "1",
             "jobsactive": "1"
         }
-    ]
 }

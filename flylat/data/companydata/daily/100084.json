@@ -1,5 +1,5 @@
 {
-    "2024-10-28": [
+    "2024-10-28": 
         {
             "company_id": "100084",
             "name": "Soarin",
@@ -64,8 +64,8 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ],
-    "2024-10-29": [
+    ,
+    "2024-10-29": 
         {
             "company_id": "100084",
             "name": "Soarin",
@@ -130,8 +130,8 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ],
-    "2024-10-30": [
+    ,
+    "2024-10-30": 
         {
             "company_id": "100084",
             "name": "Soarin",
@@ -196,8 +196,8 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ],
-    "2024-10-31": [
+    ,
+    "2024-10-31": 
         {
             "company_id": "100084",
             "name": "Soarin",
@@ -262,8 +262,8 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ],
-    "2024-11-30": [
+    ,
+    "2024-11-30": 
         {
             "company_id": "100084",
             "name": "Soarin",
@@ -328,5 +328,4 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ]
 }
