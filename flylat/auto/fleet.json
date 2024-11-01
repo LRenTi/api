@@ -313,5 +313,56 @@
             "Name": "G-FXAC",
             "occupied": "AI",
             "Hub": "EGLL"
+        },
+	{
+            "Name": "OE-AIV",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        }
+	,
+	{
+            "Name": "OE-AIW",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZL",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LNE",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LNF",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZM",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZN",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZO",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZP",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-THI",
+            "occupied": "AI",
+            "Hub": "LOWW"
         }
 ]
