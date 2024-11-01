@@ -13,13 +13,13 @@
     },
     {
         "Route": "JFKLAX339",
-        "Name": "N102AX",
+        "Name": "OE-AIZ",
         "Departure": "KJFK",
         "Destination": "KLAX"
     },
     {
         "Route": "JFKMEX380",
-        "Name": "OE-AIZ",
+        "Name": "N102AX",
         "Departure": "KJFK",
         "Destination": "MMMX"
     },
