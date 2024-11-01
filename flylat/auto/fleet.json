@@ -364,5 +364,25 @@
             "Name": "OE-THI",
             "occupied": "AI",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "N110AX",
+            "occupied": "FREE",
+            "Hub": "KFJK"
+        },
+	{
+            "Name": "N900AF",
+            "occupied": "FREE",
+            "Hub": "KFJK"
+        },
+	{
+            "Name": "N901AF",
+            "occupied": "FREE",
+            "Hub": "KFJK"
+        },
+	{
+            "Name": "N109AX",
+            "occupied": "FREE",
+            "Hub": "EGGL"
         }
 ]
