@@ -240,7 +240,7 @@ def main():
     airport_table.loadTable(filename)
     with open(airline_file, "r", encoding="utf-8") as f:
         data = json.load(f)
-    for airline in data["airlines"]:
+    for airline in data:
         airline_id = airline["id"]
         path = extract_departure_destination(airline_id)
         if path:

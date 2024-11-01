@@ -28,6 +28,9 @@ def scrape_data(url):
         return None
 
 def save_data(data_dict):
+    os.makedirs('flylat/data/companydata/daily', exist_ok=True)
+    os.makedirs('flylat/data/companydata/monthly', exist_ok=True)
+
     for airline_id, data_info in data_dict.items():
         date_key = data_info['time'].strftime('%Y-%m-%d')
         daily_file_path = f'flylat/data/companydata/daily/{airline_id}.json'
@@ -39,8 +42,8 @@ def save_data(data_dict):
                 existing_data = json.load(f)
 
         # Ersetze alle Einträge für diesen Tag
-        existing_data[date_key] = [data_info['data']]
-        
+        existing_data[date_key] = data_info['data']
+
         # Speichern der täglichen Daten
         with open(daily_file_path, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=4)
@@ -48,7 +51,6 @@ def save_data(data_dict):
         # Überprüfen, ob es der letzte Tag des Monats ist
         if is_last_day_of_month(data_info['time']):
             monthly_file_path = f'flylat/data/companydata/monthly/{airline_id}.json'
-            os.makedirs(os.path.dirname(monthly_file_path), exist_ok=True)
 
             # Speichern der monatlichen Daten
             monthly_existing_data = {}
@@ -58,7 +60,7 @@ def save_data(data_dict):
 
             # Ersetze alle Einträge für diesen Monat
             month_key = data_info['time'].strftime('%Y-%m')
-            monthly_existing_data[month_key] = [data_info['data']]
+            monthly_existing_data[month_key] = data_info['data']
 
             # Speichern der monatlichen Daten
             with open(monthly_file_path, 'w', encoding='utf-8') as f:
@@ -69,36 +71,39 @@ def is_last_day_of_month(date):
     return next_day.month != date.month
 
 def main():
-    utc_time = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=5)
+    utc_time = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=12)
     print("Collecting company data for", utc_time.strftime('%Y-%m-%d %H:%M:%S'))
     airline_file = "flylat/data/airlines.json"
-    os.makedirs('flylat/data/companydata/daily', exist_ok=True)
     
+    # Öffnen der Airline-Datei und Laden der Daten als Liste
     with open(airline_file, "r", encoding="utf-8") as f:
         data = json.load(f)
-        
+
+    # Sicherstellen, dass `data` eine Liste ist
+    if not isinstance(data, list):
+        logging.error("Expected a list of airlines in JSON file.")
+        return
+    
     data_dict = {}
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = {}
-        for airline in data["airlines"]:
+        for airline in data:
             airline_id = airline.get('id')
             url = f"https://flylat.net/company/get_data.php?id={airline_id}"
             futures[executor.submit(scrape_data, url)] = airline_id
 
-        for future, airline_id in futures.items():  # Verwendung von .items() hier
+        for future in futures:
+            airline_id = futures[future]
             try:
                 new_data = future.result()
-                if new_data is not None:  # Überprüfe, ob die Daten erfolgreich abgerufen wurden
+                if new_data:
                     data_dict[airline_id] = {'data': new_data, 'time': utc_time}
-            except requests.RequestException as e:
-                logging.error(f"Request error processing data for {airline_id}: {e}")
-            except json.JSONDecodeError as e:
-                logging.error(f"JSON decode error processing data for {airline_id}: {e}")
             except Exception as e:
-                logging.error(f"Unexpected error processing data for {airline_id}: {e}")
+                logging.error("Error processing data for %s: %s", airline_id, e)
 
     # Speichern der gesammelten Daten
     save_data(data_dict)
 
 if __name__ == "__main__":
     main()
+
