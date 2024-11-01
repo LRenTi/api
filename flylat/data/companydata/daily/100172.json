@@ -1,6 +1,6 @@
-{
-    "2024-10-28":
-        {
+[
+    { "date": "2024-10-28",
+    "data": {
             "company_id": "100172",
             "name": "AVIAN Air",
             "callsign": "AVA",
@@ -76,8 +76,9 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ,
-    "2024-10-29": 
+    },
+    { "date": "2024-10-29",
+    "data": 
         {
             "company_id": "100172",
             "name": "AVIAN Air",
@@ -154,8 +155,9 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ,
-    "2024-10-30": 
+    }, 
+    { "date": "2024-10-30",
+    "data":
         {
             "company_id": "100172",
             "name": "AVIAN Air",
@@ -232,8 +234,9 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ,
-    "2024-10-31":
+    },
+    { "date": "2024-10-31",
+    "data":
         {
             "company_id": "100172",
             "name": "AVIAN Air",
@@ -314,86 +317,5 @@
             "jobsoffered": "2",
             "jobsactive": "2"
         }
-    ,
-    "2024-11-30": 
-        {
-            "company_id": "100172",
-            "name": "AVIAN Air",
-            "callsign": "AVA",
-            "location": "LOWW",
-            "owner_id": "55519",
-            "cash": "$665,889,352.00",
-            "cash_friendly": "$665.89 M",
-            "rep": "10,620",
-            "cargo_rep": "0",
-            "news": [
-                "AVIAN Air is now connecting Vienna and Doha",
-                "People of Athens and Rome are now happy for a direct connection by AVIAN Air",
-                "AVIAN Air is now connecting Tokyo and Taipei",
-                "AVIAN Air recently opened a direct route between Tokyo and Osaka",
-                "People of Tokyo and Kumamoto are now happy for a direct connection by AVIAN Air"
-            ],
-            "week_flights": "0",
-            "discord": "MzsVeaHBjb",
-            "facebook": "",
-            "url": "",
-            "verified": "1",
-            "username": "renti",
-            "privacy": "0",
-            "priv_code": null,
-            "avg_landing_rate": "318 fpm",
-            "safety": "Safe",
-            "aircraft_asset": "$1,009,862,840.00",
-            "assets": "$1,201,862,840.00",
-            "assets_friendly": "$1.01 B",
-            "flight_count": "281",
-            "employee_count": "11",
-            "route_count": "193",
-            "vc_aircraft": "73",
-            "vc_hubs": "8",
-            "active_flights": "0",
-            "ai_flights": "48",
-            "total_flights": 48,
-            "airport_name": "Schwechat",
-            "airport_city": "Vienna",
-            "airport_country": "Austria",
-            "aircraft_models": [
-                "747-200",
-                "777-200F",
-                "787-9",
-                "A300",
-                "A300-600F",
-                "A300-600R",
-                "A320-251N",
-                "A320-271N",
-                "A321-253NX-XLR",
-                "A321neo",
-                "A321P2F",
-                "A330-941",
-                "A380-842",
-                "A380-900",
-                "E195"
-            ],
-            "model_counts": [
-                "8",
-                "1",
-                "1",
-                "7",
-                "2",
-                "2",
-                "19",
-                "6",
-                "2",
-                "4",
-                "1",
-                "12",
-                "2",
-                "3",
-                "3"
-            ],
-            "distributions": "0",
-            "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
-            "jobsoffered": "2",
-            "jobsactive": "2"
-        }
-}
+    }
+]
