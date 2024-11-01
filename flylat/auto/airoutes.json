@@ -232,5 +232,65 @@
         "Name": "G-FXAC",
         "Departure": "EGLL",
         "Destination": "KJFK"
+    },
+    {
+        "Route": "VIEIAD380",
+        "Name": "OE-AIV",
+        "Departure": "LOWW",
+        "Destination": "KIAD"
+    },
+    {
+        "Route": "VIEHOU380",
+        "Name": "OE-AIW",
+        "Departure": "LOWW",
+        "Destination": "KIAH"
+    },
+    {
+        "Route": "VIEMAD320",
+        "Name": "OE-LZL",
+        "Departure": "LOWW",
+        "Destination": "LEMD"
+    },
+    {
+        "Route": "VIEPAR321",
+        "Name": "OE-LNF",
+        "Departure": "LOWW",
+        "Destination": "LEMD"
+    },
+    {
+        "Route": "VIEIST321",
+        "Name": "OE-LNE",
+        "Departure": "LOWW",
+        "Destination": "LTFM"
+    },
+    {
+        "Route": "VIEAMS320",
+        "Name": "OE-LZM",
+        "Departure": "LOWW",
+        "Destination": "EHAM"
+    },
+    {
+        "Route": "VIEKOP320",
+        "Name": "OE-LZN",
+        "Departure": "LOWW",
+        "Destination": "EKCH"
+    },
+    {
+        "Route": "VIEBRU320",
+        "Name": "OE-LZO",
+        "Departure": "LOWW",
+        "Destination": "EBBR"
+    },
+    {
+        "Route": "VIEALI320",
+        "Name": "OE-LZP",
+        "Departure": "LOWW",
+        "Destination": "LEAL"
+    },
+    {
+        "Route": "VIEBER300",
+        "Name": "OE-THI",
+        "Departure": "LOWW",
+        "Destination": "ENBR"
     }
 ]
