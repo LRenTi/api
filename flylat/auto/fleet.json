@@ -384,5 +384,10 @@
             "Name": "N109AX",
             "occupied": "FREE",
             "Hub": "EGGL"
+        },
+	{
+            "Name": "N902AF",
+            "occupied": "FREE",
+            "Hub": "KJFK"
         }
 ]
