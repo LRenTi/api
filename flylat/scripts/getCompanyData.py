@@ -28,9 +28,6 @@ def scrape_data(url):
         return None
 
 def save_data(data_dict):
-    os.makedirs('flylat/data/companydata/daily', exist_ok=True)
-    os.makedirs('flylat/data/companydata/monthly', exist_ok=True)
-
     for airline_id, data_info in data_dict.items():
         date_key = data_info['time'].strftime('%Y-%m-%d')
         daily_file_path = f'flylat/data/companydata/daily/{airline_id}.json'
@@ -42,8 +39,8 @@ def save_data(data_dict):
                 existing_data = json.load(f)
 
         # Ersetze alle Einträge für diesen Tag
-        existing_data[date_key] = data_info['data']
-
+        existing_data[date_key] = [data_info['data']]
+        
         # Speichern der täglichen Daten
         with open(daily_file_path, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=4)
@@ -51,18 +48,31 @@ def save_data(data_dict):
         # Überprüfen, ob es der letzte Tag des Monats ist
         if is_last_day_of_month(data_info['time']):
             monthly_file_path = f'flylat/data/companydata/monthly/{airline_id}.json'
+            os.makedirs(os.path.dirname(monthly_file_path), exist_ok=True)
 
             # Speichern der monatlichen Daten
-            monthly_existing_data = {}
+            monthly_existing_data = []
             if os.path.exists(monthly_file_path):
                 with open(monthly_file_path, 'r', encoding='utf-8') as f:
                     monthly_existing_data = json.load(f)
 
-            # Ersetze alle Einträge für diesen Monat
+            # Monatseintrag als Dictionary hinzufügen oder ersetzen
             month_key = data_info['time'].strftime('%Y-%m')
-            monthly_existing_data[month_key] = data_info['data']
+            month_entry = {month_key: data_info['data']}
 
-            # Speichern der monatlichen Daten
+            # Überprüfen, ob der Monat bereits existiert, um ihn zu ersetzen
+            month_exists = False
+            for i, entry in enumerate(monthly_existing_data):
+                if month_key in entry:
+                    monthly_existing_data[i] = month_entry  # Ersetze den bestehenden Monatseintrag
+                    month_exists = True
+                    break
+
+            if not month_exists:
+                # Füge den neuen Monatseintrag hinzu, wenn er noch nicht existiert
+                monthly_existing_data.append(month_entry)
+
+            # Speichern der monatlichen Daten als Liste
             with open(monthly_file_path, 'w', encoding='utf-8') as f:
                 json.dump(monthly_existing_data, f, indent=4)
 
