@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1730335223.5677717,
+    "updateTimestamp": 1730454887.634093,
     "routes": [
         {
             "route_id": 0,
@@ -265,7 +265,33 @@
         },
         {
             "route_id": 10,
-            "profit": 1206627,
+            "profit": 1379112,
+            "ticketpp": 714,
+            "distance": "9179",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "FACT",
+                "name": "Cape Town International Airport",
+                "latitude": -33.9648017883,
+                "longitude": 18.6016998291,
+                "municipality": "Cape Town",
+                "iso_country": "ZA",
+                "iso_region": "ZA-WC"
+            }
+        },
+        {
+            "route_id": 11,
+            "profit": 1357455,
             "ticketpp": 687,
             "distance": "8806",
             "flown": 1,
@@ -290,8 +316,8 @@
             }
         },
         {
-            "route_id": 11,
-            "profit": 1134306,
+            "route_id": 12,
+            "profit": 1351330,
             "ticketpp": 704,
             "distance": "9029",
             "flown": 0,
@@ -316,7 +342,7 @@
             }
         },
         {
-            "route_id": 12,
+            "route_id": 13,
             "profit": 1118034,
             "ticketpp": 489,
             "distance": "1854",
@@ -339,32 +365,6 @@
                 "municipality": "Málaga",
                 "iso_country": "ES",
                 "iso_region": "ES-AN"
-            }
-        },
-        {
-            "route_id": 13,
-            "profit": 1085592,
-            "ticketpp": 714,
-            "distance": "9179",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "FACT",
-                "name": "Cape Town International Airport",
-                "latitude": -33.9648017883,
-                "longitude": 18.6016998291,
-                "municipality": "Cape Town",
-                "iso_country": "ZA",
-                "iso_region": "ZA-WC"
             }
         },
         {
@@ -447,6 +447,32 @@
         },
         {
             "route_id": 17,
+            "profit": 795762,
+            "ticketpp": 756,
+            "distance": "9773",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "WMKK",
+                "name": "Kuala Lumpur International Airport",
+                "latitude": 2.745579957962,
+                "longitude": 101.70999908447,
+                "municipality": "Kuala Lumpur",
+                "iso_country": "MY",
+                "iso_region": "MY-14"
+            }
+        },
+        {
+            "route_id": 18,
             "profit": 741540,
             "ticketpp": 433,
             "distance": "1548",
@@ -472,7 +498,7 @@
             }
         },
         {
-            "route_id": 18,
+            "route_id": 19,
             "profit": 667669,
             "ticketpp": 334,
             "distance": "998",
@@ -498,7 +524,7 @@
             }
         },
         {
-            "route_id": 19,
+            "route_id": 20,
             "profit": 644035,
             "ticketpp": 497,
             "distance": "1887",
@@ -524,7 +550,7 @@
             }
         },
         {
-            "route_id": 20,
+            "route_id": 21,
             "profit": 594892,
             "ticketpp": 430,
             "distance": "1535",
@@ -550,7 +576,7 @@
             }
         },
         {
-            "route_id": 21,
+            "route_id": 22,
             "profit": 537346,
             "ticketpp": 425,
             "distance": "1495",
@@ -576,7 +602,7 @@
             }
         },
         {
-            "route_id": 22,
+            "route_id": 23,
             "profit": 511233,
             "ticketpp": 392,
             "distance": "1317",
@@ -599,32 +625,6 @@
                 "municipality": "Oslo",
                 "iso_country": "NO",
                 "iso_region": "NO-02"
-            }
-        },
-        {
-            "route_id": 23,
-            "profit": 510096,
-            "ticketpp": 756,
-            "distance": "9773",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "WMKK",
-                "name": "Kuala Lumpur International Airport",
-                "latitude": 2.745579957962,
-                "longitude": 101.70999908447,
-                "municipality": "Kuala Lumpur",
-                "iso_country": "MY",
-                "iso_region": "MY-14"
             }
         },
         {
@@ -1594,7 +1594,7 @@
             "profit": 29052,
             "ticketpp": 196,
             "distance": "237",
-            "flown": 7,
+            "flown": 8,
             "verified": "1",
             "departure": {
                 "ICAO": "EKCH",

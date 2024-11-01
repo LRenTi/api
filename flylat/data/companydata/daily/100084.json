@@ -196,5 +196,69 @@
             "jobsoffered": "0",
             "jobsactive": "0"
         }
-    ]
+    ],
+    "2024-10-31": {
+        "company_id": "100084",
+        "name": "Soarin",
+        "callsign": "Swallow",
+        "location": "EGCC",
+        "owner_id": "23079",
+        "cash": "$249,881,085.00",
+        "cash_friendly": "$249.88 M",
+        "rep": "4,145",
+        "cargo_rep": "0",
+        "news": [
+            "People of Greater Manchester and Johannesburg are now happy for a direct connection by Soarin",
+            "Soarin is now connecting Greater Manchester and Szczytno",
+            "People of Greater Manchester and Miami are now happy for a direct connection by Soarin",
+            "Soarin recently opened a direct route between Greater Manchester and Nice/Cote",
+            "People of Greater Manchester and London are now happy for a direct connection by Soarin"
+        ],
+        "week_flights": "0",
+        "discord": "",
+        "facebook": "",
+        "url": "",
+        "verified": "0",
+        "username": "sim_k",
+        "privacy": "0",
+        "priv_code": null,
+        "avg_landing_rate": "145 fpm",
+        "safety": "Safe",
+        "aircraft_asset": "$339,727,990.00",
+        "assets": "$363,727,990.00",
+        "assets_friendly": "$339.73 M",
+        "flight_count": "368",
+        "employee_count": "2",
+        "route_count": "25",
+        "vc_aircraft": "11",
+        "vc_hubs": "1",
+        "active_flights": "1",
+        "ai_flights": "4",
+        "total_flights": 5,
+        "airport_name": "Manchester Airport",
+        "airport_city": "Greater Manchester",
+        "airport_country": "United Kingdom",
+        "aircraft_models": [
+            "737-800BCF",
+            "A319-112",
+            "A320-211",
+            "A320-232",
+            "A321-232",
+            "A330-300",
+            "A340-643"
+        ],
+        "model_counts": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "4"
+        ],
+        "distributions": "0",
+        "description": "This airline operates using flyLAT virtual airline platform. CEO has not set a company description yet.",
+        "jobsoffered": "0",
+        "jobsactive": "0"
+    }
 }
