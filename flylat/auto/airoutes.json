@@ -292,5 +292,11 @@
         "Name": "OE-THI",
         "Departure": "LOWW",
         "Destination": "ENBR"
+    },
+    {
+        "Route": "VIEDOH339",
+        "Name": "OE-LAB",
+        "Departure": "LOWW",
+        "Destination": "OTHH"
     }
 ]
