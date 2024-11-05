@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1730680902.7306347,
+    "updateTimestamp": 1730767158.950922,
     "routes": [
         {
             "route_id": 0,
@@ -239,6 +239,32 @@
         },
         {
             "route_id": 9,
+            "profit": 1487952,
+            "ticketpp": 756,
+            "distance": "9773",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "WMKK",
+                "name": "Kuala Lumpur International Airport",
+                "latitude": 2.745579957962,
+                "longitude": 101.70999908447,
+                "municipality": "Kuala Lumpur",
+                "iso_country": "MY",
+                "iso_region": "MY-14"
+            }
+        },
+        {
+            "route_id": 10,
             "profit": 1443006,
             "ticketpp": 504,
             "distance": "1930",
@@ -264,7 +290,7 @@
             }
         },
         {
-            "route_id": 10,
+            "route_id": 11,
             "profit": 1379112,
             "ticketpp": 714,
             "distance": "9179",
@@ -290,7 +316,7 @@
             }
         },
         {
-            "route_id": 11,
+            "route_id": 12,
             "profit": 1357455,
             "ticketpp": 687,
             "distance": "8806",
@@ -316,7 +342,7 @@
             }
         },
         {
-            "route_id": 12,
+            "route_id": 13,
             "profit": 1351330,
             "ticketpp": 704,
             "distance": "9029",
@@ -339,32 +365,6 @@
                 "municipality": "Los Angeles",
                 "iso_country": "US",
                 "iso_region": "US-CA"
-            }
-        },
-        {
-            "route_id": 13,
-            "profit": 1285446,
-            "ticketpp": 756,
-            "distance": "9773",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "WMKK",
-                "name": "Kuala Lumpur International Airport",
-                "latitude": 2.745579957962,
-                "longitude": 101.70999908447,
-                "municipality": "Kuala Lumpur",
-                "iso_country": "MY",
-                "iso_region": "MY-14"
             }
         },
         {
@@ -421,6 +421,32 @@
         },
         {
             "route_id": 16,
+            "profit": 1056486,
+            "ticketpp": 726,
+            "distance": "9358",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "RJTT",
+                "name": "Tokyo Haneda International Airport",
+                "latitude": 35.552299,
+                "longitude": 139.779999,
+                "municipality": "Tokyo",
+                "iso_country": "JP",
+                "iso_region": "JP-13"
+            }
+        },
+        {
+            "route_id": 17,
             "profit": 945801,
             "ticketpp": 323,
             "distance": "941",
@@ -446,7 +472,7 @@
             }
         },
         {
-            "route_id": 17,
+            "route_id": 18,
             "profit": 825540,
             "ticketpp": 357,
             "distance": "1124",
@@ -472,7 +498,7 @@
             }
         },
         {
-            "route_id": 18,
+            "route_id": 19,
             "profit": 741540,
             "ticketpp": 433,
             "distance": "1548",
@@ -495,32 +521,6 @@
                 "municipality": "Arnavutköy, Istanbul",
                 "iso_country": "TR",
                 "iso_region": "TR-34"
-            }
-        },
-        {
-            "route_id": 19,
-            "profit": 701420,
-            "ticketpp": 726,
-            "distance": "9358",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "RJTT",
-                "name": "Tokyo Haneda International Airport",
-                "latitude": 35.552299,
-                "longitude": 139.779999,
-                "municipality": "Tokyo",
-                "iso_country": "JP",
-                "iso_region": "JP-13"
             }
         },
         {
@@ -944,7 +944,7 @@
             "profit": 137616,
             "ticketpp": 247,
             "distance": "517",
-            "flown": 19,
+            "flown": 20,
             "verified": "1",
             "departure": {
                 "ICAO": "EKCH",
