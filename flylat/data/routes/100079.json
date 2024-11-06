@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1730767152.5703766,
+    "updateTimestamp": 1730853530.7624784,
     "routes": [
         {
             "route_id": 0,
@@ -83,7 +83,7 @@
         },
         {
             "route_id": 3,
-            "profit": 9066986,
+            "profit": 9972262,
             "ticketpp": 1744,
             "distance": "8760",
             "flown": 0,
@@ -217,7 +217,7 @@
             "ticketpp": 417,
             "distance": "1459",
             "flown": 21,
-            "verified": "1",
+            "verified": "0",
             "departure": {
                 "ICAO": "EGSS",
                 "name": "London Stansted Airport",
@@ -447,7 +447,7 @@
         },
         {
             "route_id": 17,
-            "profit": 2296855,
+            "profit": 2342060,
             "ticketpp": 474,
             "distance": "1774",
             "flown": 2,
