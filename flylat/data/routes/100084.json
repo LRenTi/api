@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1730853532.450625,
+    "updateTimestamp": 1730939951.1693618,
     "routes": [
         {
             "route_id": 0,
@@ -658,7 +658,7 @@
             "profit": 0,
             "ticketpp": 81,
             "distance": "298",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
@@ -703,6 +703,32 @@
                 "municipality": "Brussels",
                 "iso_country": "BE",
                 "iso_region": "BE-BRU"
+            }
+        },
+        {
+            "route_id": 27,
+            "profit": 0,
+            "ticketpp": 277,
+            "distance": "3048",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "GCTS",
+                "name": "Tenerife South Airport",
+                "latitude": 28.0445,
+                "longitude": -16.5725,
+                "municipality": "Tenerife",
+                "iso_country": "ES",
+                "iso_region": "ES-CN"
             }
         }
     ]
