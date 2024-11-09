@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1731026341.22401,
+    "updateTimestamp": 1731112691.1735537,
     "routes": [
         {
             "route_id": 0,
@@ -15842,8 +15842,8 @@
             "profit": 0,
             "ticketpp": 558,
             "distance": "2235",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDFW",
                 "name": "Dallas Fort Worth International Airport",
