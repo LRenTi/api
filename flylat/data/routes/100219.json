@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1731112691.1735537,
+    "updateTimestamp": 1731199320.186213,
     "routes": [
         {
             "route_id": 0,
@@ -736,7 +736,7 @@
             "profit": 919434,
             "ticketpp": 2371,
             "distance": "12210",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KATL",
@@ -14490,8 +14490,8 @@
             "profit": 0,
             "ticketpp": 311,
             "distance": "870",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KJFK",
                 "name": "John F Kennedy International Airport",
