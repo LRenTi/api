@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1731544766.791739,
+    "updateTimestamp": 1731631341.7346256,
     "routes": [
         {
             "route_id": 0,
@@ -15504,7 +15504,7 @@
             "profit": 0,
             "ticketpp": 739,
             "distance": "9534",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KLAX",
@@ -15530,8 +15530,8 @@
             "profit": 0,
             "ticketpp": 958,
             "distance": "12607",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KMIA",
                 "name": "Miami International Airport",
