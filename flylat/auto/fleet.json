@@ -42,7 +42,7 @@
         {
             "Name": "G-FXAB",
             "occupied": "FREE",
-            "Hub": "EGGL"
+            "Hub": "EGLL"
         },
         {
             "Name": "N103AX",
@@ -383,7 +383,7 @@
 	{
             "Name": "N109AX",
             "occupied": "FREE",
-            "Hub": "EGGL"
+            "Hub": "EGLL"
         },
 	{
             "Name": "N902AF",
