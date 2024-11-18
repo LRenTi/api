@@ -298,5 +298,47 @@
         "Name": "OE-LAB",
         "Departure": "LOWW",
         "Destination": "OTHH"
+    },
+    {
+        "Route": "VIESZG195",
+        "Name": "OE-END",
+        "Departure": "LOWW",
+        "Destination": "LOWS"
+    },
+    {
+        "Route": "VIESINN195",
+        "Name": "OE-ENE",
+        "Departure": "LOWW",
+        "Destination": "LOWI"
+    },
+    {
+        "Route": "VIESKP195",
+        "Name": "OE-ENF",
+        "Departure": "LOWW",
+        "Destination": "LWSK"
+    },
+    {
+        "Route": "VIEVCE195",
+        "Name": "OE-ENG",
+        "Departure": "LOWW",
+        "Destination": "LIPZ"
+    },
+    {
+        "Route": "VIEDBV195",
+        "Name": "OE-ENH",
+        "Departure": "LOWW",
+        "Destination": "LDDU"
+    },
+    {
+        "Route": "VIEEGC195",
+        "Name": "OE-ENI",
+        "Departure": "LOWW",
+        "Destination": "LFBE"
+    },
+    {
+        "Route": "VIEPVG380",
+        "Name": "OE-AIU",
+        "Departure": "LOWW",
+        "Destination": "ZSPD"
     }
 ]
