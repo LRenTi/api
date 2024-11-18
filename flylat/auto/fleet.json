@@ -424,5 +424,10 @@
             "Name": "OE-AIU",
             "occupied": "AI",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-AIT",
+            "occupied": "AI",
+            "Hub": "LOWW"
         }
 ]
