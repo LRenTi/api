@@ -389,5 +389,36 @@
             "Name": "N902AF",
             "occupied": "FREE",
             "Hub": "KJFK"
+        },
+	{
+            "Name": "OE-END",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+	,
+	{
+            "Name": "OE-ENE",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-ENF",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-ENG",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-ENH",
+            "occupied": "FREE",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-ENI",
+            "occupied": "FREE",
+            "Hub": "LOWW"
         }
 ]
