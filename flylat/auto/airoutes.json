@@ -340,5 +340,11 @@
         "Name": "OE-AIU",
         "Departure": "LOWW",
         "Destination": "ZSPD"
+    },
+    {
+        "Route": "VIEYYZ380",
+        "Name": "OE-AIT",
+        "Departure": "LOWW",
+        "Destination": "CYYZ"
     }
 ]
