@@ -392,33 +392,38 @@
         },
 	{
             "Name": "OE-END",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
 	,
 	{
             "Name": "OE-ENE",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
 	{
             "Name": "OE-ENF",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
 	{
             "Name": "OE-ENG",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
 	{
             "Name": "OE-ENH",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
 	{
             "Name": "OE-ENI",
-            "occupied": "FREE",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-AIU",
+            "occupied": "AI",
             "Hub": "LOWW"
         }
 ]
