@@ -96,7 +96,7 @@
         },
         {
             "Name": "OE-NSE",
-            "occupied": "FREE",
+            "occupied": "AI",
             "Hub": "LOWW"
         },
         {
