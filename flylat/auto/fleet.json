@@ -429,5 +429,20 @@
             "Name": "OE-AIT",
             "occupied": "AI",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LAC",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LAD",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LAE",
+            "occupied": "AI",
+            "Hub": "LOWW"
         }
 ]
