@@ -346,5 +346,23 @@
         "Name": "OE-AIT",
         "Departure": "LOWW",
         "Destination": "CYYZ"
+    },
+    {
+        "Route": "VIEICN339",
+        "Name": "OE-LAC",
+        "Departure": "LOWW",
+        "Destination": "RKSI"
+    },
+    {
+        "Route": "VIEVIA787",
+        "Name": "OE-NSE",
+        "Departure": "LOWW",
+        "Destination": "VRMM"
+    },
+    {
+        "Route": "VIEMRU339",
+        "Name": "OE-LAD",
+        "Departure": "LOWW",
+        "Destination": "FIMP"
     }
 ]
