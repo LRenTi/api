@@ -1,12 +1,12 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1731976912.7877197,
+    "updateTimestamp": 1732063290.3107624,
     "routes": [
         {
             "route_id": 0,
             "profit": 22484100,
-            "ticketpp": 1988,
+            "ticketpp": 1835,
             "distance": "10095",
             "flown": 2,
             "verified": "1",
@@ -32,7 +32,7 @@
         {
             "route_id": 1,
             "profit": 12867265,
-            "ticketpp": 1346,
+            "ticketpp": 1193,
             "distance": "6565",
             "flown": 4,
             "verified": "1",
@@ -57,8 +57,8 @@
         },
         {
             "route_id": 2,
-            "profit": 11182026,
-            "ticketpp": 1160,
+            "profit": 12143396,
+            "ticketpp": 1007,
             "distance": "5539",
             "flown": 27,
             "verified": "1",
@@ -84,7 +84,7 @@
         {
             "route_id": 3,
             "profit": 9972262,
-            "ticketpp": 1744,
+            "ticketpp": 1592,
             "distance": "8760",
             "flown": 0,
             "verified": "0",
@@ -110,7 +110,7 @@
         {
             "route_id": 4,
             "profit": 9371436,
-            "ticketpp": 1152,
+            "ticketpp": 999,
             "distance": "5499",
             "flown": 7,
             "verified": "1",
@@ -136,7 +136,7 @@
         {
             "route_id": 5,
             "profit": 8462619,
-            "ticketpp": 239,
+            "ticketpp": 85,
             "distance": "483",
             "flown": 14,
             "verified": "1",
@@ -162,7 +162,7 @@
         {
             "route_id": 6,
             "profit": 8282759,
-            "ticketpp": 639,
+            "ticketpp": 487,
             "distance": "2678",
             "flown": 69,
             "verified": "1",
@@ -188,7 +188,7 @@
         {
             "route_id": 7,
             "profit": 8066788,
-            "ticketpp": 1677,
+            "ticketpp": 1526,
             "distance": "8395",
             "flown": 6,
             "verified": "1",
@@ -214,7 +214,7 @@
         {
             "route_id": 8,
             "profit": 7066220,
-            "ticketpp": 204,
+            "ticketpp": 43,
             "distance": "283",
             "flown": 10,
             "verified": "1",
@@ -240,7 +240,7 @@
         {
             "route_id": 9,
             "profit": 6866405,
-            "ticketpp": 1545,
+            "ticketpp": 1392,
             "distance": "7658",
             "flown": 1,
             "verified": "1",
@@ -266,7 +266,7 @@
         {
             "route_id": 10,
             "profit": 6327616,
-            "ticketpp": 417,
+            "ticketpp": 257,
             "distance": "1459",
             "flown": 21,
             "verified": "0",
@@ -292,7 +292,7 @@
         {
             "route_id": 11,
             "profit": 5502563,
-            "ticketpp": 1524,
+            "ticketpp": 1372,
             "distance": "7547",
             "flown": 2,
             "verified": "1",
@@ -318,7 +318,7 @@
         {
             "route_id": 12,
             "profit": 4012756,
-            "ticketpp": 1494,
+            "ticketpp": 1341,
             "distance": "7380",
             "flown": 8,
             "verified": "1",
@@ -344,7 +344,7 @@
         {
             "route_id": 13,
             "profit": 3994240,
-            "ticketpp": 212,
+            "ticketpp": 57,
             "distance": "330",
             "flown": 79,
             "verified": "1",
@@ -370,7 +370,7 @@
         {
             "route_id": 14,
             "profit": 3259659,
-            "ticketpp": 402,
+            "ticketpp": 264,
             "distance": "1370",
             "flown": 12,
             "verified": "1",
@@ -396,7 +396,7 @@
         {
             "route_id": 15,
             "profit": 3050878,
-            "ticketpp": 408,
+            "ticketpp": 254,
             "distance": "1396",
             "flown": 10,
             "verified": "1",
@@ -422,7 +422,7 @@
         {
             "route_id": 16,
             "profit": 2546906,
-            "ticketpp": 347,
+            "ticketpp": 179,
             "distance": "1070",
             "flown": 31,
             "verified": "1",
@@ -448,7 +448,7 @@
         {
             "route_id": 17,
             "profit": 2505431,
-            "ticketpp": 372,
+            "ticketpp": 236,
             "distance": "1213",
             "flown": 6,
             "verified": "1",
@@ -474,7 +474,7 @@
         {
             "route_id": 18,
             "profit": 2342060,
-            "ticketpp": 474,
+            "ticketpp": 322,
             "distance": "1774",
             "flown": 2,
             "verified": "1",
@@ -500,7 +500,7 @@
         {
             "route_id": 19,
             "profit": 2263709,
-            "ticketpp": 527,
+            "ticketpp": 376,
             "distance": "2067",
             "flown": 2,
             "verified": "1",
@@ -526,7 +526,7 @@
         {
             "route_id": 20,
             "profit": 1999662,
-            "ticketpp": 408,
+            "ticketpp": 251,
             "distance": "1409",
             "flown": 4,
             "verified": "1",
@@ -552,7 +552,7 @@
         {
             "route_id": 21,
             "profit": 1981168,
-            "ticketpp": 446,
+            "ticketpp": 293,
             "distance": "1611",
             "flown": 4,
             "verified": "1",
@@ -578,7 +578,7 @@
         {
             "route_id": 22,
             "profit": 1953458,
-            "ticketpp": 293,
+            "ticketpp": 141,
             "distance": "774",
             "flown": 1,
             "verified": "1",
@@ -604,7 +604,7 @@
         {
             "route_id": 23,
             "profit": 1814999,
-            "ticketpp": 314,
+            "ticketpp": 167,
             "distance": "880",
             "flown": 29,
             "verified": "1",
@@ -630,7 +630,7 @@
         {
             "route_id": 24,
             "profit": 1408054,
-            "ticketpp": 379,
+            "ticketpp": 226,
             "distance": "1245",
             "flown": 1,
             "verified": "1",
@@ -656,7 +656,7 @@
         {
             "route_id": 25,
             "profit": 1384809,
-            "ticketpp": 374,
+            "ticketpp": 221,
             "distance": "1219",
             "flown": 10,
             "verified": "1",
@@ -682,7 +682,7 @@
         {
             "route_id": 26,
             "profit": 1375393,
-            "ticketpp": 267,
+            "ticketpp": 112,
             "distance": "628",
             "flown": 12,
             "verified": "1",
@@ -708,7 +708,7 @@
         {
             "route_id": 27,
             "profit": 1113209,
-            "ticketpp": 594,
+            "ticketpp": 440,
             "distance": "2422",
             "flown": 11,
             "verified": "1",
@@ -734,7 +734,7 @@
         {
             "route_id": 28,
             "profit": 978958,
-            "ticketpp": 536,
+            "ticketpp": 384,
             "distance": "2111",
             "flown": 14,
             "verified": "1",
@@ -760,7 +760,7 @@
         {
             "route_id": 29,
             "profit": 948495,
-            "ticketpp": 420,
+            "ticketpp": 267,
             "distance": "1469",
             "flown": 13,
             "verified": "1",
@@ -786,7 +786,7 @@
         {
             "route_id": 30,
             "profit": 754630,
-            "ticketpp": 640,
+            "ticketpp": 487,
             "distance": "2678",
             "flown": 5,
             "verified": "1",
@@ -812,7 +812,7 @@
         {
             "route_id": 31,
             "profit": 617124,
-            "ticketpp": 367,
+            "ticketpp": 215,
             "distance": "1185",
             "flown": 4,
             "verified": "1",
@@ -838,7 +838,7 @@
         {
             "route_id": 32,
             "profit": 571459,
-            "ticketpp": 1215,
+            "ticketpp": 1062,
             "distance": "5845",
             "flown": 2,
             "verified": "1",
@@ -864,7 +864,7 @@
         {
             "route_id": 33,
             "profit": 565917,
-            "ticketpp": 392,
+            "ticketpp": 239,
             "distance": "1313",
             "flown": 2,
             "verified": "1",
@@ -890,7 +890,7 @@
         {
             "route_id": 34,
             "profit": 503208,
-            "ticketpp": 596,
+            "ticketpp": 443,
             "distance": "2435",
             "flown": 4,
             "verified": "1",
@@ -916,7 +916,7 @@
         {
             "route_id": 35,
             "profit": 458654,
-            "ticketpp": 497,
+            "ticketpp": 344,
             "distance": "1895",
             "flown": 5,
             "verified": "1",
@@ -942,7 +942,7 @@
         {
             "route_id": 36,
             "profit": 453815,
-            "ticketpp": 435,
+            "ticketpp": 282,
             "distance": "1552",
             "flown": 8,
             "verified": "1",
@@ -968,7 +968,7 @@
         {
             "route_id": 37,
             "profit": 453566,
-            "ticketpp": 367,
+            "ticketpp": 213,
             "distance": "1174",
             "flown": 1,
             "verified": "1",
@@ -994,7 +994,7 @@
         {
             "route_id": 38,
             "profit": 349304,
-            "ticketpp": 392,
+            "ticketpp": 240,
             "distance": "1322",
             "flown": 10,
             "verified": "1",
@@ -1020,7 +1020,7 @@
         {
             "route_id": 39,
             "profit": 270727,
-            "ticketpp": 420,
+            "ticketpp": 268,
             "distance": "1474",
             "flown": 8,
             "verified": "1",
@@ -1046,7 +1046,7 @@
         {
             "route_id": 40,
             "profit": 220307,
-            "ticketpp": 601,
+            "ticketpp": 448,
             "distance": "2467",
             "flown": 3,
             "verified": "1",
@@ -1072,7 +1072,7 @@
         {
             "route_id": 41,
             "profit": 192703,
-            "ticketpp": 367,
+            "ticketpp": 213,
             "distance": "1172",
             "flown": 6,
             "verified": "1",
@@ -1098,7 +1098,7 @@
         {
             "route_id": 42,
             "profit": 187821,
-            "ticketpp": 315,
+            "ticketpp": 163,
             "distance": "898",
             "flown": 8,
             "verified": "1",
@@ -1124,7 +1124,7 @@
         {
             "route_id": 43,
             "profit": 185875,
-            "ticketpp": 395,
+            "ticketpp": 241,
             "distance": "1326",
             "flown": 5,
             "verified": "1",
@@ -1150,7 +1150,7 @@
         {
             "route_id": 44,
             "profit": 172112,
-            "ticketpp": 308,
+            "ticketpp": 156,
             "distance": "859",
             "flown": 3,
             "verified": "1",
@@ -1176,7 +1176,7 @@
         {
             "route_id": 45,
             "profit": 163430,
-            "ticketpp": 344,
+            "ticketpp": 192,
             "distance": "1057",
             "flown": 5,
             "verified": "1",
@@ -1202,7 +1202,7 @@
         {
             "route_id": 46,
             "profit": 132534,
-            "ticketpp": 489,
+            "ticketpp": 336,
             "distance": "1848",
             "flown": 1,
             "verified": "1",
@@ -1228,7 +1228,7 @@
         {
             "route_id": 47,
             "profit": 121088,
-            "ticketpp": 314,
+            "ticketpp": 161,
             "distance": "887",
             "flown": 6,
             "verified": "1",
@@ -1254,7 +1254,7 @@
         {
             "route_id": 48,
             "profit": 119564,
-            "ticketpp": 405,
+            "ticketpp": 253,
             "distance": "1393",
             "flown": 3,
             "verified": "1",
@@ -1280,7 +1280,7 @@
         {
             "route_id": 49,
             "profit": 101071,
-            "ticketpp": 280,
+            "ticketpp": 127,
             "distance": "696",
             "flown": 5,
             "verified": "1",
@@ -1306,7 +1306,7 @@
         {
             "route_id": 50,
             "profit": 99712,
-            "ticketpp": 257,
+            "ticketpp": 103,
             "distance": "569",
             "flown": 6,
             "verified": "1",
@@ -1332,7 +1332,7 @@
         {
             "route_id": 51,
             "profit": 99026,
-            "ticketpp": 257,
+            "ticketpp": 93,
             "distance": "572",
             "flown": 4,
             "verified": "1",
@@ -1358,7 +1358,7 @@
         {
             "route_id": 52,
             "profit": 93792,
-            "ticketpp": 379,
+            "ticketpp": 226,
             "distance": "1243",
             "flown": 1,
             "verified": "1",
@@ -1384,7 +1384,7 @@
         {
             "route_id": 53,
             "profit": 85312,
-            "ticketpp": 362,
+            "ticketpp": 208,
             "distance": "1146",
             "flown": 1,
             "verified": "1",
@@ -1410,7 +1410,7 @@
         {
             "route_id": 54,
             "profit": 81339,
-            "ticketpp": 280,
+            "ticketpp": 127,
             "distance": "696",
             "flown": 4,
             "verified": "1",
@@ -1436,7 +1436,7 @@
         {
             "route_id": 55,
             "profit": 76572,
-            "ticketpp": 430,
+            "ticketpp": 278,
             "distance": "1532",
             "flown": 2,
             "verified": "1",
@@ -1462,7 +1462,7 @@
         {
             "route_id": 56,
             "profit": 69895,
-            "ticketpp": 647,
+            "ticketpp": 495,
             "distance": "2726",
             "flown": 1,
             "verified": "1",
@@ -1488,7 +1488,7 @@
         {
             "route_id": 57,
             "profit": 66461,
-            "ticketpp": 293,
+            "ticketpp": 139,
             "distance": "765",
             "flown": 3,
             "verified": "1",
@@ -1514,7 +1514,7 @@
         {
             "route_id": 58,
             "profit": 58065,
-            "ticketpp": 216,
+            "ticketpp": 64,
             "distance": "352",
             "flown": 3,
             "verified": "1",
@@ -1540,7 +1540,7 @@
         {
             "route_id": 59,
             "profit": 56960,
-            "ticketpp": 377,
+            "ticketpp": 224,
             "distance": "1233",
             "flown": 2,
             "verified": "1",
@@ -1566,7 +1566,7 @@
         {
             "route_id": 60,
             "profit": 50457,
-            "ticketpp": 209,
+            "ticketpp": 48,
             "distance": "304",
             "flown": 2,
             "verified": "1",
@@ -1592,7 +1592,7 @@
         {
             "route_id": 61,
             "profit": 47320,
-            "ticketpp": 481,
+            "ticketpp": 328,
             "distance": "1804",
             "flown": 1,
             "verified": "1",
@@ -1618,7 +1618,7 @@
         {
             "route_id": 62,
             "profit": 34344,
-            "ticketpp": 420,
+            "ticketpp": 268,
             "distance": "1472",
             "flown": 1,
             "verified": "1",
@@ -1644,7 +1644,7 @@
         {
             "route_id": 63,
             "profit": 28912,
-            "ticketpp": 385,
+            "ticketpp": 233,
             "distance": "1283",
             "flown": 1,
             "verified": "1",
@@ -1670,7 +1670,7 @@
         {
             "route_id": 64,
             "profit": 25730,
-            "ticketpp": 362,
+            "ticketpp": 209,
             "distance": "1152",
             "flown": 1,
             "verified": "1",
@@ -1696,7 +1696,7 @@
         {
             "route_id": 65,
             "profit": 16740,
-            "ticketpp": 283,
+            "ticketpp": 130,
             "distance": "715",
             "flown": 1,
             "verified": "1",
@@ -1722,7 +1722,7 @@
         {
             "route_id": 66,
             "profit": 15496,
-            "ticketpp": 277,
+            "ticketpp": 126,
             "distance": "691",
             "flown": 1,
             "verified": "1",
@@ -1748,7 +1748,7 @@
         {
             "route_id": 67,
             "profit": 15360,
-            "ticketpp": 180,
+            "ticketpp": 28,
             "distance": "154",
             "flown": 2,
             "verified": "1",
@@ -1774,7 +1774,7 @@
         {
             "route_id": 68,
             "profit": 6260,
-            "ticketpp": 216,
+            "ticketpp": 63,
             "distance": "344",
             "flown": 2,
             "verified": "1",
@@ -1800,7 +1800,7 @@
         {
             "route_id": 69,
             "profit": 0,
-            "ticketpp": 334,
+            "ticketpp": 182,
             "distance": "1002",
             "flown": 0,
             "verified": "0",
@@ -1826,7 +1826,7 @@
         {
             "route_id": 70,
             "profit": 0,
-            "ticketpp": 433,
+            "ticketpp": 281,
             "distance": "1548",
             "flown": 0,
             "verified": "0",
@@ -1852,7 +1852,7 @@
         {
             "route_id": 71,
             "profit": 0,
-            "ticketpp": 161,
+            "ticketpp": 257,
             "distance": "1415",
             "flown": 0,
             "verified": "0",
@@ -1878,7 +1878,7 @@
         {
             "route_id": 72,
             "profit": 0,
-            "ticketpp": 421,
+            "ticketpp": 268,
             "distance": "1472",
             "flown": 0,
             "verified": "0",
