@@ -444,5 +444,30 @@
             "Name": "OE-LAE",
             "occupied": "AI",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZQ",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZR",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZS",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZT",
+            "occupied": "AI",
+            "Hub": "LOWW"
+        },
+	{
+            "Name": "OE-LZU",
+            "occupied": "AI",
+            "Hub": "LOWW"
         }
 ]
