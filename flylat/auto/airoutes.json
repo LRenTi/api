@@ -370,5 +370,35 @@
         "Name": "OE-THH",
         "Departure": "LOWW",
         "Destination": "OIIE"
+    },
+    {
+        "Route": "VIEARN320",
+        "Name": "OE-LZQ",
+        "Departure": "LOWW",
+        "Destination": "ESSA"
+    },
+    {
+        "Route": "VIEHER320",
+        "Name": "OE-LZR",
+        "Departure": "LOWW",
+        "Destination": "LGIR"
+    },
+    {
+        "Route": "VIEPMO320",
+        "Name": "OE-LZS",
+        "Departure": "LOWW",
+        "Destination": "LICJ"
+    },
+    {
+        "Route": "VIEIBZ320",
+        "Name": "OE-LZT",
+        "Departure": "LOWW",
+        "Destination": "LEIB"
+    },
+    {
+        "Route": "VIEGVA320",
+        "Name": "OE-LZU",
+        "Departure": "LOWW",
+        "Destination": "LSGG"
     }
 ]
