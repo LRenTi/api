@@ -364,5 +364,11 @@
         "Name": "OE-LAD",
         "Departure": "LOWW",
         "Destination": "FIMP"
+    },
+    {
+        "Route": "VIEIKA300",
+        "Name": "OE-THH",
+        "Departure": "LOWW",
+        "Destination": "OIIE"
     }
 ]
