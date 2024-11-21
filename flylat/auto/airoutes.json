@@ -300,16 +300,16 @@
         "Destination": "OTHH"
     },
     {
-        "Route": "VIESZG195",
+        "Route": "VIEKBP195",
         "Name": "OE-END",
         "Departure": "LOWW",
-        "Destination": "LOWS"
+        "Destination": "UKBB"
     },
     {
-        "Route": "VIEINN195",
+        "Route": "VIEOLB195",
         "Name": "OE-ENE",
         "Departure": "LOWW",
-        "Destination": "LOWI"
+        "Destination": "LIEO"
     },
     {
         "Route": "VIESKP195",
@@ -364,5 +364,41 @@
         "Name": "OE-LAD",
         "Departure": "LOWW",
         "Destination": "FIMP"
+    },
+    {
+        "Route": "VIEIKA300",
+        "Name": "OE-THH",
+        "Departure": "LOWW",
+        "Destination": "OIIE"
+    },
+    {
+        "Route": "VIEARN320",
+        "Name": "OE-LZQ",
+        "Departure": "LOWW",
+        "Destination": "ESSA"
+    },
+    {
+        "Route": "VIEHER320",
+        "Name": "OE-LZR",
+        "Departure": "LOWW",
+        "Destination": "LGIR"
+    },
+    {
+        "Route": "VIEPMO320",
+        "Name": "OE-LZS",
+        "Departure": "LOWW",
+        "Destination": "LICJ"
+    },
+    {
+        "Route": "VIEIBZ320",
+        "Name": "OE-LZT",
+        "Departure": "LOWW",
+        "Destination": "LEIB"
+    },
+    {
+        "Route": "VIEGVA320",
+        "Name": "OE-LZU",
+        "Departure": "LOWW",
+        "Destination": "LSGG"
     }
 ]
