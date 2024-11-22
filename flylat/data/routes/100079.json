@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1732220215.0003414,
+    "updateTimestamp": 1732236155.7352123,
     "routes": [
         {
             "route_id": 0,
@@ -1841,11 +1841,11 @@
             },
             "destination": {
                 "ICAO": "EPLB",
-                "name": "Lublin Airport",
-                "latitude": 51.240278,
-                "longitude": 22.713611,
-                "municipality": "Lublin",
-                "iso_country": "PL",
+                "name": null,
+                "latitude": null,
+                "longitude": null,
+                "municipality": null,
+                "iso_country": null,
                 "iso_region": null
             }
         },
