@@ -400,5 +400,11 @@
         "Name": "OE-LZU",
         "Departure": "LOWW",
         "Destination": "LSGG"
+    },
+    {
+        "Route": "VIEZNZ339",
+        "Name": "OE-LAE",
+        "Departure": "LOWW",
+        "Destination": "HTZA"
     }
 ]
