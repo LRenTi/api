@@ -1,13 +1,13 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1732236160.730482,
+    "updateTimestamp": 1732322437.7477531,
     "routes": [
         {
             "route_id": 0,
-            "profit": 0,
-            "ticketpp": 1523,
-            "distance": "8380",
+            "profit": 1322990,
+            "ticketpp": 1693,
+            "distance": "9188",
             "flown": 1,
             "verified": "1",
             "departure": {
@@ -20,18 +20,18 @@
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "KSFO",
-                "name": "San Francisco International Airport",
-                "latitude": 37.61899948120117,
-                "longitude": -122.375,
-                "municipality": "San Francisco",
-                "iso_country": "US",
-                "iso_region": "US-CA"
+                "ICAO": "FAOR",
+                "name": "OR Tambo International Airport",
+                "latitude": -26.1392,
+                "longitude": 28.246,
+                "municipality": "Johannesburg",
+                "iso_country": "ZA",
+                "iso_region": "ZA-GT"
             }
         },
         {
             "route_id": 1,
-            "profit": 0,
+            "profit": 1187498,
             "ticketpp": 1264,
             "distance": "6956",
             "flown": 1,
@@ -57,33 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 0,
-            "ticketpp": 278,
-            "distance": "1532",
-            "flown": 2,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGCC",
-                "name": "Manchester Airport",
-                "latitude": 53.349375,
-                "longitude": -2.279521,
-                "municipality": "Manchester",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EPSY",
-                "name": "Olsztyn-Mazury Airport",
-                "latitude": 53.481899,
-                "longitude": 20.9377,
-                "municipality": "Olsztyn",
-                "iso_country": "PL",
-                "iso_region": "PL-WN"
-            }
-        },
-        {
-            "route_id": 3,
-            "profit": 0,
+            "profit": 1124946,
             "ticketpp": 1028,
             "distance": "5656",
             "flown": 1,
@@ -108,10 +82,10 @@
             }
         },
         {
-            "route_id": 4,
-            "profit": 0,
-            "ticketpp": 1693,
-            "distance": "9188",
+            "route_id": 3,
+            "profit": 707491,
+            "ticketpp": 1523,
+            "distance": "8380",
             "flown": 1,
             "verified": "1",
             "departure": {
@@ -124,13 +98,39 @@
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "FAOR",
-                "name": "OR Tambo International Airport",
-                "latitude": -26.1392,
-                "longitude": 28.246,
-                "municipality": "Johannesburg",
-                "iso_country": "ZA",
-                "iso_region": "ZA-GT"
+                "ICAO": "KSFO",
+                "name": "San Francisco International Airport",
+                "latitude": 37.61899948120117,
+                "longitude": -122.375,
+                "municipality": "San Francisco",
+                "iso_country": "US",
+                "iso_region": "US-CA"
+            }
+        },
+        {
+            "route_id": 4,
+            "profit": 0,
+            "ticketpp": 278,
+            "distance": "1532",
+            "flown": 2,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPSY",
+                "name": "Olsztyn-Mazury Airport",
+                "latitude": 53.481899,
+                "longitude": 20.9377,
+                "municipality": "Olsztyn",
+                "iso_country": "PL",
+                "iso_region": "PL-WN"
             }
         },
         {

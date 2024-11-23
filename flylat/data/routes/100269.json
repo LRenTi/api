@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1732236178.7436106,
+    "updateTimestamp": 1732322443.165393,
     "routes": [
         {
             "route_id": 0,
@@ -2289,6 +2289,32 @@
                 "municipality": "Palermo",
                 "iso_country": "IT",
                 "iso_region": "IT-82"
+            }
+        },
+        {
+            "route_id": 88,
+            "profit": 0,
+            "ticketpp": 687,
+            "distance": "8801",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "VTBS",
+                "name": "Suvarnabhumi Airport",
+                "latitude": 13.681099891662598,
+                "longitude": 100.74700164794922,
+                "municipality": "Bangkok",
+                "iso_country": "TH",
+                "iso_region": "TH-10"
             }
         }
     ]
