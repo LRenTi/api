@@ -1,11 +1,11 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1732322437.7477531,
+    "updateTimestamp": 1732409108.2658486,
     "routes": [
         {
             "route_id": 0,
-            "profit": 1322990,
+            "profit": 1952318,
             "ticketpp": 1693,
             "distance": "9188",
             "flown": 1,
@@ -83,7 +83,7 @@
         },
         {
             "route_id": 3,
-            "profit": 707491,
+            "profit": 1109211,
             "ticketpp": 1523,
             "distance": "8380",
             "flown": 1,
