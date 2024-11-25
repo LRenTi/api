@@ -406,5 +406,11 @@
         "Name": "OE-LAE",
         "Departure": "LOWW",
         "Destination": "HTZA"
+    },
+    {
+        "Route": "VIETPE350",
+        "Name": "OE-AXA",
+        "Departure": "LOWW",
+        "Destination": "RCTP"
     }
 ]
