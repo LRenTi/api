@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1732754561.182944,
+    "updateTimestamp": 1732840966.4765155,
     "routes": [
         {
             "route_id": 0,
@@ -937,6 +937,32 @@
                 "municipality": "Tenerife",
                 "iso_country": "ES",
                 "iso_region": "ES-CN"
+            }
+        },
+        {
+            "route_id": 36,
+            "profit": 0,
+            "ticketpp": 821,
+            "distance": "10682",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "WMKK",
+                "name": "Kuala Lumpur International Airport",
+                "latitude": 2.745579957962,
+                "longitude": 101.70999908447,
+                "municipality": "Kuala Lumpur",
+                "iso_country": "MY",
+                "iso_region": "MY-14"
             }
         }
     ]
