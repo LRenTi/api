@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1732927288.372658,
+    "updateTimestamp": 1733014357.1611946,
     "routes": [
         {
             "route_id": 0,
@@ -15556,8 +15556,8 @@
             "profit": 0,
             "ticketpp": 1110,
             "distance": "6110",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "PHNL",
                 "name": "Daniel K Inouye International Airport",
