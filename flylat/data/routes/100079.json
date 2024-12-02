@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1733014352.2269752,
+    "updateTimestamp": 1733100283.5912817,
     "routes": [
         {
             "route_id": 0,
@@ -1899,6 +1899,32 @@
                 "municipality": "Warsaw",
                 "iso_country": "PL",
                 "iso_region": "PL-MZ"
+            }
+        },
+        {
+            "route_id": 73,
+            "profit": 0,
+            "ticketpp": 290,
+            "distance": "3232",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "BGGH",
+                "name": "Godthaab / Nuuk Airport",
+                "latitude": 64.19090271,
+                "longitude": -51.6781005859,
+                "municipality": "Nuuk",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A"
             }
         }
     ]
