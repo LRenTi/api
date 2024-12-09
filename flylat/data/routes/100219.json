@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1733618864.9404917,
+    "updateTimestamp": 1733705120.7534246,
     "routes": [
         {
             "route_id": 0,
@@ -15970,8 +15970,8 @@
         {
             "route_id": 614,
             "profit": 0,
-            "ticketpp": 1270,
-            "distance": "16979",
+            "ticketpp": 707,
+            "distance": "9086",
             "flown": 0,
             "verified": "0",
             "departure": {
@@ -15984,13 +15984,13 @@
                 "iso_region": "US-CA"
             },
             "destination": {
-                "ICAO": "FAOR",
-                "name": "OR Tambo International Airport",
-                "latitude": -26.1392,
-                "longitude": 28.246,
-                "municipality": "Johannesburg",
-                "iso_country": "ZA",
-                "iso_region": "ZA-GT"
+                "ICAO": "RKSI",
+                "name": "Incheon International Airport",
+                "latitude": 37.46910095214844,
+                "longitude": 126.45099639892578,
+                "municipality": "Seoul",
+                "iso_country": "KR",
+                "iso_region": "KR-28"
             }
         },
         {
@@ -16284,8 +16284,8 @@
             "profit": 0,
             "ticketpp": 624,
             "distance": "3435",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSFO",
                 "name": "San Francisco International Airport",
