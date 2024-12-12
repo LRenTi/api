@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1733877817.964145,
+    "updateTimestamp": 1733964205.490355,
     "routes": [
         {
             "route_id": 0,
@@ -681,6 +681,32 @@
         },
         {
             "route_id": 26,
+            "profit": 1481595,
+            "ticketpp": 267,
+            "distance": "1469",
+            "flown": 15,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EPWA",
+                "name": "Warsaw Chopin Airport",
+                "latitude": 52.1656990051,
+                "longitude": 20.967100143399996,
+                "municipality": "Warsaw",
+                "iso_country": "PL",
+                "iso_region": "PL-MZ"
+            },
+            "destination": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            }
+        },
+        {
+            "route_id": 27,
             "profit": 1375393,
             "ticketpp": 112,
             "distance": "628",
@@ -703,32 +729,6 @@
                 "municipality": "Frankfurt am Main",
                 "iso_country": "DE",
                 "iso_region": "DE-HE"
-            }
-        },
-        {
-            "route_id": 27,
-            "profit": 1369388,
-            "ticketpp": 267,
-            "distance": "1469",
-            "flown": 15,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EPWA",
-                "name": "Warsaw Chopin Airport",
-                "latitude": 52.1656990051,
-                "longitude": 20.967100143399996,
-                "municipality": "Warsaw",
-                "iso_country": "PL",
-                "iso_region": "PL-MZ"
-            },
-            "destination": {
-                "ICAO": "EGLL",
-                "name": "London Heathrow Airport",
-                "latitude": 51.4706,
-                "longitude": -0.461941,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
             }
         },
         {
