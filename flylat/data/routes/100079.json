@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1734136931.2985418,
+    "updateTimestamp": 1734223687.9835508,
     "routes": [
         {
             "route_id": 0,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 12867265,
+            "profit": 13276382,
             "ticketpp": 1193,
             "distance": "6565",
             "flown": 4,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 12434265,
+            "profit": 12812317,
             "ticketpp": 999,
             "distance": "5499",
             "flown": 7,
@@ -473,6 +473,32 @@
         },
         {
             "route_id": 18,
+            "profit": 2372586,
+            "ticketpp": 251,
+            "distance": "1409",
+            "flown": 4,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPKK",
+                "name": "Kraków John Paul II International Airport",
+                "latitude": 50.077702,
+                "longitude": 19.7848,
+                "municipality": "Kraków",
+                "iso_country": "PL",
+                "iso_region": "PL-MA"
+            }
+        },
+        {
+            "route_id": 19,
             "profit": 2342060,
             "ticketpp": 322,
             "distance": "1774",
@@ -495,32 +521,6 @@
                 "municipality": "Faro",
                 "iso_country": "PT",
                 "iso_region": "PT-08"
-            }
-        },
-        {
-            "route_id": 19,
-            "profit": 2289897,
-            "ticketpp": 251,
-            "distance": "1409",
-            "flown": 4,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EPKK",
-                "name": "Kraków John Paul II International Airport",
-                "latitude": 50.077702,
-                "longitude": 19.7848,
-                "municipality": "Kraków",
-                "iso_country": "PL",
-                "iso_region": "PL-MA"
             }
         },
         {

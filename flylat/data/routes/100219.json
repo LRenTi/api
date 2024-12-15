@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1734136936.2473245,
+    "updateTimestamp": 1734223692.705986,
     "routes": [
         {
             "route_id": 0,
@@ -2686,7 +2686,7 @@
             "profit": 122463,
             "ticketpp": 174,
             "distance": "959",
-            "flown": 11,
+            "flown": 12,
             "verified": "1",
             "departure": {
                 "ICAO": "KMIA",
