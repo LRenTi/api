@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1735173581.446586,
+    "updateTimestamp": 1735259997.2951703,
     "routes": [
         {
             "route_id": 0,
@@ -3154,7 +3154,7 @@
             "profit": 84718,
             "ticketpp": 273,
             "distance": "1502",
-            "flown": 3,
+            "flown": 4,
             "verified": "1",
             "departure": {
                 "ICAO": "KDFW",
