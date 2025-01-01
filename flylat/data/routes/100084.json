@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1735605584.649423,
+    "updateTimestamp": 1735692261.001972,
     "routes": [
         {
             "route_id": 0,
@@ -528,7 +528,7 @@
             "profit": 0,
             "ticketpp": 284,
             "distance": "1563",
-            "flown": 3,
+            "flown": 4,
             "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
@@ -710,7 +710,7 @@
             "profit": 0,
             "ticketpp": 98,
             "distance": "537",
-            "flown": 2,
+            "flown": 3,
             "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
