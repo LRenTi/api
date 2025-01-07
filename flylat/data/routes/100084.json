@@ -1,12 +1,12 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1736124136.7867649,
+    "updateTimestamp": 1736210443.4523864,
     "routes": [
         {
             "route_id": 0,
             "profit": 1952318,
-            "ticketpp": 1693,
+            "ticketpp": 1993,
             "distance": "9188",
             "flown": 1,
             "verified": "1",
@@ -604,7 +604,7 @@
         {
             "route_id": 23,
             "profit": 0,
-            "ticketpp": 1802,
+            "ticketpp": 2102,
             "distance": "9917",
             "flown": 1,
             "verified": "1",
@@ -737,7 +737,7 @@
             "ticketpp": 746,
             "distance": "9630",
             "flown": 0,
-            "verified": "0",
+            "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
                 "name": "Manchester Airport",
@@ -815,7 +815,7 @@
             "ticketpp": 773,
             "distance": "10008",
             "flown": 0,
-            "verified": "0",
+            "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
                 "name": "Manchester Airport",
@@ -1647,7 +1647,7 @@
             "ticketpp": 957,
             "distance": "12586",
             "flown": 0,
-            "verified": "0",
+            "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
                 "name": "Manchester Airport",
@@ -2107,6 +2107,162 @@
                 "municipality": "Bogota",
                 "iso_country": "CO",
                 "iso_region": "CO-CUN"
+            }
+        },
+        {
+            "route_id": 81,
+            "profit": 0,
+            "ticketpp": 588,
+            "distance": "7421",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "MKJS",
+                "name": "Sangster International Airport",
+                "latitude": 18.503700256347656,
+                "longitude": -77.91339874267578,
+                "municipality": "Montego Bay",
+                "iso_country": "JM",
+                "iso_region": "JM-08"
+            }
+        },
+        {
+            "route_id": 82,
+            "profit": 0,
+            "ticketpp": 2004,
+            "distance": "10147",
+            "flown": 0,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "VVPQ",
+                "name": "Phu Quoc International Airport",
+                "latitude": 10.1698,
+                "longitude": 103.9931,
+                "municipality": "Phu Quoc Island",
+                "iso_country": "VN",
+                "iso_region": "VN-47"
+            }
+        },
+        {
+            "route_id": 83,
+            "profit": 0,
+            "ticketpp": 732,
+            "distance": "9429",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "RJBB",
+                "name": "Kansai International Airport",
+                "latitude": 34.427299,
+                "longitude": 135.244003,
+                "municipality": "Osaka",
+                "iso_country": "JP",
+                "iso_region": "JP-27"
+            }
+        },
+        {
+            "route_id": 84,
+            "profit": 0,
+            "ticketpp": 667,
+            "distance": "8530",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "KLAX",
+                "name": "Los Angeles International Airport",
+                "latitude": 33.942501,
+                "longitude": -118.407997,
+                "municipality": "Los Angeles",
+                "iso_country": "US",
+                "iso_region": "US-CA"
+            }
+        },
+        {
+            "route_id": 85,
+            "profit": 0,
+            "ticketpp": 578,
+            "distance": "7275",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "KDEN",
+                "name": "Denver International Airport",
+                "latitude": 39.861698150635,
+                "longitude": -104.672996521,
+                "municipality": "Denver",
+                "iso_country": "US",
+                "iso_region": "US-CO"
+            }
+        },
+        {
+            "route_id": 86,
+            "profit": 0,
+            "ticketpp": 840,
+            "distance": "10955",
+            "flown": 0,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "WSSS",
+                "name": "Singapore Changi Airport",
+                "latitude": 1.35019,
+                "longitude": 103.994003,
+                "municipality": "Singapore",
+                "iso_country": "SG",
+                "iso_region": "SG-04"
             }
         }
     ]
