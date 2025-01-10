@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1736383212.8538525,
+    "updateTimestamp": 1736469673.4426777,
     "routes": [
         {
             "route_id": 0,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 15775711,
+            "profit": 16758786,
             "ticketpp": 999,
             "distance": "5499",
             "flown": 7,
@@ -57,10 +57,10 @@
         },
         {
             "route_id": 2,
-            "profit": 14402034,
+            "profit": 14787144,
             "ticketpp": 1193,
             "distance": "6565",
-            "flown": 5,
+            "flown": 6,
             "verified": "1",
             "departure": {
                 "ICAO": "EGLL",
@@ -317,6 +317,32 @@
         },
         {
             "route_id": 12,
+            "profit": 4150661,
+            "ticketpp": 254,
+            "distance": "1396",
+            "flown": 12,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "ESSA",
+                "name": "Stockholm-Arlanda Airport",
+                "latitude": 59.651901245117,
+                "longitude": 17.918600082397,
+                "municipality": "Stockholm",
+                "iso_country": "SE",
+                "iso_region": "SE-AB"
+            }
+        },
+        {
+            "route_id": 13,
             "profit": 4029017,
             "ticketpp": 57,
             "distance": "330",
@@ -342,7 +368,7 @@
             }
         },
         {
-            "route_id": 13,
+            "route_id": 14,
             "profit": 4012756,
             "ticketpp": 1341,
             "distance": "7380",
@@ -365,32 +391,6 @@
                 "municipality": "Dubai",
                 "iso_country": "AE",
                 "iso_region": "AE-DU"
-            }
-        },
-        {
-            "route_id": 14,
-            "profit": 3953261,
-            "ticketpp": 254,
-            "distance": "1396",
-            "flown": 12,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "ESSA",
-                "name": "Stockholm-Arlanda Airport",
-                "latitude": 59.651901245117,
-                "longitude": 17.918600082397,
-                "municipality": "Stockholm",
-                "iso_country": "SE",
-                "iso_region": "SE-AB"
             }
         },
         {
@@ -915,6 +915,32 @@
         },
         {
             "route_id": 35,
+            "profit": 546750,
+            "ticketpp": 290,
+            "distance": "3232",
+            "flown": 2,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "BGGH",
+                "name": "Godthaab / Nuuk Airport",
+                "latitude": 64.19090271,
+                "longitude": -51.6781005859,
+                "municipality": "Nuuk",
+                "iso_country": "GL",
+                "iso_region": "GL-U-A"
+            }
+        },
+        {
+            "route_id": 36,
             "profit": 503208,
             "ticketpp": 443,
             "distance": "2435",
@@ -940,7 +966,7 @@
             }
         },
         {
-            "route_id": 36,
+            "route_id": 37,
             "profit": 458654,
             "ticketpp": 344,
             "distance": "1895",
@@ -966,7 +992,7 @@
             }
         },
         {
-            "route_id": 37,
+            "route_id": 38,
             "profit": 453815,
             "ticketpp": 282,
             "distance": "1552",
@@ -992,7 +1018,7 @@
             }
         },
         {
-            "route_id": 38,
+            "route_id": 39,
             "profit": 453566,
             "ticketpp": 213,
             "distance": "1174",
@@ -1018,7 +1044,7 @@
             }
         },
         {
-            "route_id": 39,
+            "route_id": 40,
             "profit": 349304,
             "ticketpp": 240,
             "distance": "1322",
@@ -1044,7 +1070,7 @@
             }
         },
         {
-            "route_id": 40,
+            "route_id": 41,
             "profit": 270727,
             "ticketpp": 268,
             "distance": "1474",
@@ -1067,32 +1093,6 @@
                 "municipality": "Porto",
                 "iso_country": "PT",
                 "iso_region": "PT-13"
-            }
-        },
-        {
-            "route_id": 41,
-            "profit": 239570,
-            "ticketpp": 290,
-            "distance": "3232",
-            "flown": 2,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGLL",
-                "name": "London Heathrow Airport",
-                "latitude": 51.4706,
-                "longitude": -0.461941,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "BGGH",
-                "name": "Godthaab / Nuuk Airport",
-                "latitude": 64.19090271,
-                "longitude": -51.6781005859,
-                "municipality": "Nuuk",
-                "iso_country": "GL",
-                "iso_region": "GL-U-A"
             }
         },
         {
