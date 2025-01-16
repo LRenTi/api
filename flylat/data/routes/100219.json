@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1736901578.4482486,
+    "updateTimestamp": 1736987934.2054996,
     "routes": [
         {
             "route_id": 0,
@@ -16674,8 +16674,8 @@
             "profit": 0,
             "ticketpp": 261,
             "distance": "1435",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KJFK",
                 "name": "John F Kennedy International Airport",
