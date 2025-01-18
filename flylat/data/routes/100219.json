@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1737074333.2645369,
+    "updateTimestamp": 1737160654.3562605,
     "routes": [
         {
             "route_id": 0,
@@ -7496,7 +7496,7 @@
             "profit": 15254,
             "ticketpp": 185,
             "distance": "1017",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KJAX",
@@ -16336,8 +16336,8 @@
             "profit": 0,
             "ticketpp": 262,
             "distance": "1439",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSFO",
                 "name": "San Francisco International Airport",
@@ -17272,8 +17272,8 @@
             "profit": 0,
             "ticketpp": 2015,
             "distance": "11088",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KJFK",
                 "name": "John F Kennedy International Airport",
@@ -17282,6 +17282,32 @@
                 "municipality": "New York",
                 "iso_country": "US",
                 "iso_region": "US-NY"
+            },
+            "destination": {
+                "ICAO": "RKSI",
+                "name": "Incheon International Airport",
+                "latitude": 37.46910095214844,
+                "longitude": 126.45099639892578,
+                "municipality": "Seoul",
+                "iso_country": "KR",
+                "iso_region": "KR-28"
+            }
+        },
+        {
+            "route_id": 665,
+            "profit": 0,
+            "ticketpp": 809,
+            "distance": "10519",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "KORD",
+                "name": "Chicago O'Hare International Airport",
+                "latitude": 41.9786,
+                "longitude": -87.9048,
+                "municipality": "Chicago",
+                "iso_country": "US",
+                "iso_region": "US-IL"
             },
             "destination": {
                 "ICAO": "RKSI",

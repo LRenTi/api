@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1737074330.2949042,
+    "updateTimestamp": 1737160651.849161,
     "routes": [
         {
             "route_id": 0,
@@ -1386,8 +1386,8 @@
             "profit": 0,
             "ticketpp": 275,
             "distance": "3024",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
                 "name": "Manchester Airport",
@@ -2263,6 +2263,110 @@
                 "municipality": "Singapore",
                 "iso_country": "SG",
                 "iso_region": "SG-04"
+            }
+        },
+        {
+            "route_id": 87,
+            "profit": 0,
+            "ticketpp": 72,
+            "distance": "174",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EGNS",
+                "name": "Isle of Man Airport",
+                "latitude": 54.08330154418945,
+                "longitude": -4.623889923095703,
+                "municipality": "Castletown",
+                "iso_country": "IM",
+                "iso_region": "IM-U-A"
+            }
+        },
+        {
+            "route_id": 88,
+            "profit": 0,
+            "ticketpp": 76,
+            "distance": "235",
+            "flown": 2,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            }
+        },
+        {
+            "route_id": 89,
+            "profit": 0,
+            "ticketpp": 79,
+            "distance": "274",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EGAC",
+                "name": "George Best Belfast City Airport",
+                "latitude": 54.618099,
+                "longitude": -5.8725,
+                "municipality": "Belfast",
+                "iso_country": "GB",
+                "iso_region": "GB-NIR"
+            }
+        },
+        {
+            "route_id": 90,
+            "profit": 0,
+            "ticketpp": 78,
+            "distance": "265",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EIDW",
+                "name": "Dublin Airport",
+                "latitude": 53.421299,
+                "longitude": -6.27007,
+                "municipality": "Dublin",
+                "iso_country": "IE",
+                "iso_region": "IE-D"
             }
         }
     ]
