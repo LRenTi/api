@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1737160656.280737,
+    "updateTimestamp": 1737247349.232755,
     "routes": [
         {
             "route_id": 0,
@@ -1204,7 +1204,7 @@
             "profit": 137616,
             "ticketpp": 94,
             "distance": "517",
-            "flown": 23,
+            "flown": 24,
             "verified": "1",
             "departure": {
                 "ICAO": "EKCH",
