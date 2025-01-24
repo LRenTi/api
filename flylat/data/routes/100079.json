@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1737592752.154055,
+    "updateTimestamp": 1737679133.7666252,
     "routes": [
         {
             "route_id": 0,
@@ -1925,6 +1925,32 @@
                 "municipality": "Warsaw",
                 "iso_country": "PL",
                 "iso_region": "PL-MZ"
+            }
+        },
+        {
+            "route_id": 74,
+            "profit": 0,
+            "ticketpp": 146,
+            "distance": "1220",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "ENBR",
+                "name": "Bergen Airport Flesland",
+                "latitude": 60.29339981,
+                "longitude": 5.218140125,
+                "municipality": "Bergen",
+                "iso_country": "NO",
+                "iso_region": "NO-12"
+            },
+            "destination": {
+                "ICAO": "ENTC",
+                "name": "Tromsø Airport",
+                "latitude": 69.68329620361328,
+                "longitude": 18.918899536132812,
+                "municipality": "Tromsø",
+                "iso_country": "NO",
+                "iso_region": "NO-19"
             }
         }
     ]
