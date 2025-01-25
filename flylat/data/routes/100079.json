@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1737679133.7666252,
+    "updateTimestamp": 1737765493.1598787,
     "routes": [
         {
             "route_id": 0,
@@ -684,7 +684,7 @@
             "profit": 1481595,
             "ticketpp": 267,
             "distance": "1469",
-            "flown": 18,
+            "flown": 19,
             "verified": "1",
             "departure": {
                 "ICAO": "EPWA",
@@ -1929,6 +1929,32 @@
         },
         {
             "route_id": 74,
+            "profit": 0,
+            "ticketpp": 140,
+            "distance": "1132",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPPO",
+                "name": "Poznań-Ławica Airport",
+                "latitude": 52.421001434299995,
+                "longitude": 16.8262996674,
+                "municipality": "Poznań",
+                "iso_country": "PL",
+                "iso_region": "PL-WP"
+            }
+        },
+        {
+            "route_id": 75,
             "profit": 0,
             "ticketpp": 146,
             "distance": "1220",
