@@ -1,10 +1,36 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1737852023.79209,
+    "updateTimestamp": 1737938432.7967904,
     "routes": [
         {
             "route_id": 0,
+            "profit": 19422554,
+            "ticketpp": 2102,
+            "distance": "9917",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "FACT",
+                "name": "Cape Town International Airport",
+                "latitude": -33.9648017883,
+                "longitude": 18.6016998291,
+                "municipality": "Cape Town",
+                "iso_country": "ZA",
+                "iso_region": "ZA-WC"
+            }
+        },
+        {
+            "route_id": 1,
             "profit": 1952318,
             "ticketpp": 1993,
             "distance": "9188",
@@ -30,7 +56,7 @@
             }
         },
         {
-            "route_id": 1,
+            "route_id": 2,
             "profit": 1187498,
             "ticketpp": 1264,
             "distance": "6956",
@@ -56,7 +82,7 @@
             }
         },
         {
-            "route_id": 2,
+            "route_id": 3,
             "profit": 1124946,
             "ticketpp": 1028,
             "distance": "5656",
@@ -82,7 +108,7 @@
             }
         },
         {
-            "route_id": 3,
+            "route_id": 4,
             "profit": 1109211,
             "ticketpp": 1523,
             "distance": "8380",
@@ -108,7 +134,7 @@
             }
         },
         {
-            "route_id": 4,
+            "route_id": 5,
             "profit": 0,
             "ticketpp": 278,
             "distance": "1532",
@@ -134,7 +160,7 @@
             }
         },
         {
-            "route_id": 5,
+            "route_id": 6,
             "profit": 0,
             "ticketpp": 248,
             "distance": "1367",
@@ -160,7 +186,7 @@
             }
         },
         {
-            "route_id": 6,
+            "route_id": 7,
             "profit": 0,
             "ticketpp": 374,
             "distance": "2056",
@@ -186,7 +212,7 @@
             }
         },
         {
-            "route_id": 7,
+            "route_id": 8,
             "profit": 0,
             "ticketpp": 252,
             "distance": "1389",
@@ -212,7 +238,7 @@
             }
         },
         {
-            "route_id": 8,
+            "route_id": 9,
             "profit": 0,
             "ticketpp": 212,
             "distance": "1167",
@@ -238,7 +264,7 @@
             }
         },
         {
-            "route_id": 9,
+            "route_id": 10,
             "profit": 0,
             "ticketpp": 305,
             "distance": "1676",
@@ -264,7 +290,7 @@
             }
         },
         {
-            "route_id": 10,
+            "route_id": 11,
             "profit": 0,
             "ticketpp": 338,
             "distance": "1859",
@@ -290,7 +316,7 @@
             }
         },
         {
-            "route_id": 11,
+            "route_id": 12,
             "profit": 0,
             "ticketpp": 269,
             "distance": "1482",
@@ -316,7 +342,7 @@
             }
         },
         {
-            "route_id": 12,
+            "route_id": 13,
             "profit": 0,
             "ticketpp": 214,
             "distance": "1180",
@@ -342,7 +368,7 @@
             }
         },
         {
-            "route_id": 13,
+            "route_id": 14,
             "profit": 0,
             "ticketpp": 233,
             "distance": "1282",
@@ -368,7 +394,7 @@
             }
         },
         {
-            "route_id": 14,
+            "route_id": 15,
             "profit": 0,
             "ticketpp": 203,
             "distance": "1113",
@@ -394,7 +420,7 @@
             }
         },
         {
-            "route_id": 15,
+            "route_id": 16,
             "profit": 0,
             "ticketpp": 173,
             "distance": "954",
@@ -420,7 +446,7 @@
             }
         },
         {
-            "route_id": 16,
+            "route_id": 17,
             "profit": 0,
             "ticketpp": 224,
             "distance": "1232",
@@ -446,7 +472,7 @@
             }
         },
         {
-            "route_id": 17,
+            "route_id": 18,
             "profit": 0,
             "ticketpp": 182,
             "distance": "1000",
@@ -472,7 +498,7 @@
             }
         },
         {
-            "route_id": 18,
+            "route_id": 19,
             "profit": 0,
             "ticketpp": 310,
             "distance": "1704",
@@ -498,7 +524,7 @@
             }
         },
         {
-            "route_id": 19,
+            "route_id": 20,
             "profit": 0,
             "ticketpp": 310,
             "distance": "1706",
@@ -524,7 +550,7 @@
             }
         },
         {
-            "route_id": 20,
+            "route_id": 21,
             "profit": 0,
             "ticketpp": 284,
             "distance": "1563",
@@ -550,7 +576,7 @@
             }
         },
         {
-            "route_id": 21,
+            "route_id": 22,
             "profit": 0,
             "ticketpp": 247,
             "distance": "1361",
@@ -576,7 +602,7 @@
             }
         },
         {
-            "route_id": 22,
+            "route_id": 23,
             "profit": 0,
             "ticketpp": 283,
             "distance": "1556",
@@ -599,32 +625,6 @@
                 "municipality": "Kraków",
                 "iso_country": "PL",
                 "iso_region": "PL-MA"
-            }
-        },
-        {
-            "route_id": 23,
-            "profit": 0,
-            "ticketpp": 2102,
-            "distance": "9917",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGCC",
-                "name": "Manchester Airport",
-                "latitude": 53.349375,
-                "longitude": -2.279521,
-                "municipality": "Manchester",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "FACT",
-                "name": "Cape Town International Airport",
-                "latitude": -33.9648017883,
-                "longitude": 18.6016998291,
-                "municipality": "Cape Town",
-                "iso_country": "ZA",
-                "iso_region": "ZA-WC"
             }
         },
         {
