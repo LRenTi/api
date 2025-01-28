@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1737938430.7852056,
+    "updateTimestamp": 1738024764.9357271,
     "routes": [
         {
             "route_id": 0,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 16758786,
+            "profit": 17516087,
             "ticketpp": 999,
             "distance": "5499",
             "flown": 7,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 15128113,
+            "profit": 16052230,
             "ticketpp": 1193,
             "distance": "6565",
             "flown": 6,
@@ -421,7 +421,7 @@
         },
         {
             "route_id": 16,
-            "profit": 2930011,
+            "profit": 3154076,
             "ticketpp": 251,
             "distance": "1409",
             "flown": 4,
@@ -1253,6 +1253,32 @@
         },
         {
             "route_id": 48,
+            "profit": 132655,
+            "ticketpp": 140,
+            "distance": "1132",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPPO",
+                "name": "Poznań-Ławica Airport",
+                "latitude": 52.421001434299995,
+                "longitude": 16.8262996674,
+                "municipality": "Poznań",
+                "iso_country": "PL",
+                "iso_region": "PL-WP"
+            }
+        },
+        {
+            "route_id": 49,
             "profit": 132534,
             "ticketpp": 336,
             "distance": "1848",
@@ -1278,7 +1304,7 @@
             }
         },
         {
-            "route_id": 49,
+            "route_id": 50,
             "profit": 121088,
             "ticketpp": 161,
             "distance": "887",
@@ -1304,7 +1330,7 @@
             }
         },
         {
-            "route_id": 50,
+            "route_id": 51,
             "profit": 119564,
             "ticketpp": 253,
             "distance": "1393",
@@ -1330,7 +1356,7 @@
             }
         },
         {
-            "route_id": 51,
+            "route_id": 52,
             "profit": 101071,
             "ticketpp": 127,
             "distance": "696",
@@ -1356,7 +1382,7 @@
             }
         },
         {
-            "route_id": 52,
+            "route_id": 53,
             "profit": 99712,
             "ticketpp": 103,
             "distance": "569",
@@ -1382,7 +1408,7 @@
             }
         },
         {
-            "route_id": 53,
+            "route_id": 54,
             "profit": 99026,
             "ticketpp": 93,
             "distance": "572",
@@ -1408,7 +1434,7 @@
             }
         },
         {
-            "route_id": 54,
+            "route_id": 55,
             "profit": 93792,
             "ticketpp": 226,
             "distance": "1243",
@@ -1434,7 +1460,7 @@
             }
         },
         {
-            "route_id": 55,
+            "route_id": 56,
             "profit": 85312,
             "ticketpp": 208,
             "distance": "1146",
@@ -1460,7 +1486,7 @@
             }
         },
         {
-            "route_id": 56,
+            "route_id": 57,
             "profit": 81339,
             "ticketpp": 127,
             "distance": "696",
@@ -1486,7 +1512,7 @@
             }
         },
         {
-            "route_id": 57,
+            "route_id": 58,
             "profit": 78391,
             "ticketpp": 48,
             "distance": "304",
@@ -1512,7 +1538,7 @@
             }
         },
         {
-            "route_id": 58,
+            "route_id": 59,
             "profit": 76572,
             "ticketpp": 278,
             "distance": "1532",
@@ -1538,7 +1564,7 @@
             }
         },
         {
-            "route_id": 59,
+            "route_id": 60,
             "profit": 66461,
             "ticketpp": 139,
             "distance": "765",
@@ -1564,7 +1590,7 @@
             }
         },
         {
-            "route_id": 60,
+            "route_id": 61,
             "profit": 58065,
             "ticketpp": 64,
             "distance": "352",
@@ -1590,7 +1616,7 @@
             }
         },
         {
-            "route_id": 61,
+            "route_id": 62,
             "profit": 56960,
             "ticketpp": 224,
             "distance": "1233",
@@ -1616,7 +1642,7 @@
             }
         },
         {
-            "route_id": 62,
+            "route_id": 63,
             "profit": 47320,
             "ticketpp": 328,
             "distance": "1804",
@@ -1642,7 +1668,7 @@
             }
         },
         {
-            "route_id": 63,
+            "route_id": 64,
             "profit": 34344,
             "ticketpp": 268,
             "distance": "1472",
@@ -1665,32 +1691,6 @@
                 "municipality": "Frankfurt am Main",
                 "iso_country": "DE",
                 "iso_region": "DE-HE"
-            }
-        },
-        {
-            "route_id": 64,
-            "profit": 29230,
-            "ticketpp": 140,
-            "distance": "1132",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EPPO",
-                "name": "Poznań-Ławica Airport",
-                "latitude": 52.421001434299995,
-                "longitude": 16.8262996674,
-                "municipality": "Poznań",
-                "iso_country": "PL",
-                "iso_region": "PL-WP"
             }
         },
         {
