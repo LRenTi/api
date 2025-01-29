@@ -1,11 +1,11 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1738024766.1963625,
+    "updateTimestamp": 1738111172.001731,
     "routes": [
         {
             "route_id": 0,
-            "profit": 21006466,
+            "profit": 23393342,
             "ticketpp": 2102,
             "distance": "9917",
             "flown": 1,
@@ -31,6 +31,32 @@
         },
         {
             "route_id": 1,
+            "profit": 4174564,
+            "ticketpp": 1993,
+            "distance": "9188",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "FAOR",
+                "name": "OR Tambo International Airport",
+                "latitude": -26.1392,
+                "longitude": 28.246,
+                "municipality": "Johannesburg",
+                "iso_country": "ZA",
+                "iso_region": "ZA-GT"
+            }
+        },
+        {
+            "route_id": 2,
             "profit": 3070881,
             "ticketpp": 1523,
             "distance": "8380",
@@ -56,11 +82,11 @@
             }
         },
         {
-            "route_id": 2,
-            "profit": 2615016,
-            "ticketpp": 1993,
-            "distance": "9188",
-            "flown": 1,
+            "route_id": 3,
+            "profit": 2658544,
+            "ticketpp": 2004,
+            "distance": "10147",
+            "flown": 0,
             "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
@@ -72,17 +98,17 @@
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "FAOR",
-                "name": "OR Tambo International Airport",
-                "latitude": -26.1392,
-                "longitude": 28.246,
-                "municipality": "Johannesburg",
-                "iso_country": "ZA",
-                "iso_region": "ZA-GT"
+                "ICAO": "VVPQ",
+                "name": "Phu Quoc International Airport",
+                "latitude": 10.1698,
+                "longitude": 103.9931,
+                "municipality": "Phu Quoc Island",
+                "iso_country": "VN",
+                "iso_region": "VN-47"
             }
         },
         {
-            "route_id": 3,
+            "route_id": 4,
             "profit": 1657130,
             "ticketpp": 1264,
             "distance": "6956",
@@ -105,32 +131,6 @@
                 "municipality": "Miami",
                 "iso_country": "US",
                 "iso_region": "US-FL"
-            }
-        },
-        {
-            "route_id": 4,
-            "profit": 1331276,
-            "ticketpp": 2004,
-            "distance": "10147",
-            "flown": 0,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGCC",
-                "name": "Manchester Airport",
-                "latitude": 53.349375,
-                "longitude": -2.279521,
-                "municipality": "Manchester",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "VVPQ",
-                "name": "Phu Quoc International Airport",
-                "latitude": 10.1698,
-                "longitude": 103.9931,
-                "municipality": "Phu Quoc Island",
-                "iso_country": "VN",
-                "iso_region": "VN-47"
             }
         },
         {
@@ -161,7 +161,7 @@
         },
         {
             "route_id": 6,
-            "profit": 248189,
+            "profit": 783934,
             "ticketpp": 773,
             "distance": "10008",
             "flown": 0,
@@ -187,7 +187,7 @@
         },
         {
             "route_id": 7,
-            "profit": 196581,
+            "profit": 438317,
             "ticketpp": 821,
             "distance": "10682",
             "flown": 1,
