@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1738629577.1508408,
+    "updateTimestamp": 1738715982.1630642,
     "routes": [
         {
             "route_id": 0,
@@ -187,7 +187,7 @@
         },
         {
             "route_id": 7,
-            "profit": 3084377,
+            "profit": 4008145,
             "ticketpp": 2827,
             "distance": "15557",
             "flown": 2,
