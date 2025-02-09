@@ -474,5 +474,25 @@
             "Name": "OE-AXA",
             "occupied": "AI",
             "Hub": "LOWW"
+        },
+	{
+            "Name": "N111AX",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+	{
+            "Name": "B-LAC",
+            "occupied": "AI",
+            "Hub": "VHHH"
+        },
+	{
+            "Name": "B-LAD",
+            "occupied": "AI",
+            "Hub": "VHHH"
+        },
+	{
+            "Name": "B-LAE",
+            "occupied": "AI",
+            "Hub": "VHHH"
         }
 ]
