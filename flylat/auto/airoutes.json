@@ -412,5 +412,23 @@
         "Name": "OE-AXA",
         "Departure": "LOWW",
         "Destination": "RCTP"
+    },
+    {
+        "Route": "HKGPEK339",
+        "Name": "B-LAC",
+        "Departure": "VHHH",
+        "Destination": "ZBAA"
+    },
+    {
+        "Route": "HKGSIN339",
+        "Name": "B-LAD",
+        "Departure": "VHHH",
+        "Destination": "WSSS"
+    },
+    {
+        "Route": "HKGKUL339",
+        "Name": "B-LAD",
+        "Departure": "VHHH",
+        "Destination": "WMKK"
     }
 ]
