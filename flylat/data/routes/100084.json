@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1739061755.067918,
+    "updateTimestamp": 1739148067.2073176,
     "routes": [
         {
             "route_id": 0,
@@ -2367,6 +2367,32 @@
                 "municipality": "Dublin",
                 "iso_country": "IE",
                 "iso_region": "IE-D"
+            }
+        },
+        {
+            "route_id": 91,
+            "profit": 0,
+            "ticketpp": 714,
+            "distance": "9186",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "ZSPD",
+                "name": "Shanghai Pudong International Airport",
+                "latitude": 31.1434,
+                "longitude": 121.805,
+                "municipality": "Shanghai (Pudong)",
+                "iso_country": "CN",
+                "iso_region": "CN-31"
             }
         }
     ]
