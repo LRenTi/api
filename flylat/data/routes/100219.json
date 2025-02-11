@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1739148069.6661067,
+    "updateTimestamp": 1739234397.1007283,
     "routes": [
         {
             "route_id": 0,
@@ -5572,7 +5572,7 @@
             "profit": 32376,
             "ticketpp": 239,
             "distance": "1315",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KONT",
@@ -15322,8 +15322,8 @@
             "profit": 0,
             "ticketpp": 255,
             "distance": "1402",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KMEM",
                 "name": "Memphis International Airport",
