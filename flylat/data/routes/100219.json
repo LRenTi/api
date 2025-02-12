@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1739234397.1007283,
+    "updateTimestamp": 1739320802.9664288,
     "routes": [
         {
             "route_id": 0,
@@ -13034,8 +13034,8 @@
             "profit": 0,
             "ticketpp": 498,
             "distance": "2739",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KATL",
                 "name": "Hartsfield Jackson Atlanta International Airport",
