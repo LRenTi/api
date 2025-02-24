@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1740271418.983868,
+    "updateTimestamp": 1740357728.4517407,
     "routes": [
         {
             "route_id": 0,
@@ -13554,8 +13554,8 @@
             "profit": 0,
             "ticketpp": 182,
             "distance": "1004",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDEN",
                 "name": "Denver International Airport",
