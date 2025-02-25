@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1740357729.9806743,
+    "updateTimestamp": 1740444076.9539855,
     "routes": [
         {
             "route_id": 0,
@@ -2315,6 +2315,136 @@
                 "municipality": "Palermo",
                 "iso_country": "IT",
                 "iso_region": "IT-82"
+            }
+        },
+        {
+            "route_id": 89,
+            "profit": 0,
+            "ticketpp": 1372,
+            "distance": "7547",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "TBPB",
+                "name": "Grantley Adams International Airport",
+                "latitude": 13.0746,
+                "longitude": -59.4925,
+                "municipality": "Bridgetown",
+                "iso_country": "BB",
+                "iso_region": "BB-01"
+            }
+        },
+        {
+            "route_id": 90,
+            "profit": 0,
+            "ticketpp": 1409,
+            "distance": "7752",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "MDPC",
+                "name": "Punta Cana International Airport",
+                "latitude": 18.567399978599997,
+                "longitude": -68.36340332030001,
+                "municipality": "Punta Cana",
+                "iso_country": "DO",
+                "iso_region": "DO-11"
+            }
+        },
+        {
+            "route_id": 91,
+            "profit": 0,
+            "ticketpp": 1410,
+            "distance": "7758",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "MDPC",
+                "name": "Punta Cana International Airport",
+                "latitude": 18.567399978599997,
+                "longitude": -68.36340332030001,
+                "municipality": "Punta Cana",
+                "iso_country": "DO",
+                "iso_region": "DO-11"
+            }
+        },
+        {
+            "route_id": 92,
+            "profit": 0,
+            "ticketpp": 1390,
+            "distance": "7649",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "TFFF",
+                "name": "Martinique Aimé Césaire International Airport",
+                "latitude": 14.591,
+                "longitude": -61.003201,
+                "municipality": "Fort-de-France",
+                "iso_country": "MQ",
+                "iso_region": "MQ-U-A"
+            }
+        },
+        {
+            "route_id": 93,
+            "profit": 0,
+            "ticketpp": 1369,
+            "distance": "7534",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "TFFF",
+                "name": "Martinique Aimé Césaire International Airport",
+                "latitude": 14.591,
+                "longitude": -61.003201,
+                "municipality": "Fort-de-France",
+                "iso_country": "MQ",
+                "iso_region": "MQ-U-A"
             }
         }
     ]

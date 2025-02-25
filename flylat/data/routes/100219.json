@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1740357728.4517407,
+    "updateTimestamp": 1740444075.081365,
     "routes": [
         {
             "route_id": 0,
@@ -15868,8 +15868,8 @@
             "profit": 0,
             "ticketpp": 324,
             "distance": "1782",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSEA",
                 "name": "Seattle Tacoma International Airport",

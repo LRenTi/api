@@ -1,7 +1,7 @@
 {
     "name": "AVIAN Air (AVA)",
     "id": "100172",
-    "updateTimestamp": 1740357723.1825988,
+    "updateTimestamp": 1740444068.521065,
     "routes": [
         {
             "route_id": 0,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 96742944,
+            "profit": 97030014,
             "ticketpp": 722,
             "distance": "3974",
             "flown": 1,
@@ -83,7 +83,7 @@
         },
         {
             "route_id": 3,
-            "profit": 96386768,
+            "profit": 96798783,
             "ticketpp": 1007,
             "distance": "5539",
             "flown": 1,
@@ -187,7 +187,7 @@
         },
         {
             "route_id": 7,
-            "profit": 80693142,
+            "profit": 81529422,
             "ticketpp": 1550,
             "distance": "8527",
             "flown": 2,
@@ -213,7 +213,7 @@
         },
         {
             "route_id": 8,
-            "profit": 79224028,
+            "profit": 79781026,
             "ticketpp": 612,
             "distance": "3365",
             "flown": 1,
@@ -239,7 +239,7 @@
         },
         {
             "route_id": 9,
-            "profit": 78234812,
+            "profit": 79277152,
             "ticketpp": 1795,
             "distance": "9875",
             "flown": 3,
@@ -369,7 +369,7 @@
         },
         {
             "route_id": 14,
-            "profit": 68207807,
+            "profit": 68390043,
             "ticketpp": 344,
             "distance": "1895",
             "flown": 2,
@@ -395,7 +395,7 @@
         },
         {
             "route_id": 15,
-            "profit": 63607424,
+            "profit": 64190347,
             "ticketpp": 721,
             "distance": "3969",
             "flown": 1,
@@ -447,33 +447,7 @@
         },
         {
             "route_id": 17,
-            "profit": 61874802,
-            "ticketpp": 647,
-            "distance": "3560",
-            "flown": 6,
-            "verified": "1",
-            "departure": {
-                "ICAO": "LOWW",
-                "name": "Vienna International Airport",
-                "latitude": 48.110298,
-                "longitude": 16.5697,
-                "municipality": "Vienna",
-                "iso_country": "AT",
-                "iso_region": "AT-9"
-            },
-            "destination": {
-                "ICAO": "OEJN",
-                "name": "King Abdulaziz International Airport",
-                "latitude": 21.6796,
-                "longitude": 39.156502,
-                "municipality": "Jeddah",
-                "iso_country": "SA",
-                "iso_region": "SA-02"
-            }
-        },
-        {
-            "route_id": 18,
-            "profit": 61671100,
+            "profit": 62528300,
             "ticketpp": 1320,
             "distance": "7264",
             "flown": 1,
@@ -498,8 +472,34 @@
             }
         },
         {
+            "route_id": 18,
+            "profit": 62307500,
+            "ticketpp": 647,
+            "distance": "3560",
+            "flown": 6,
+            "verified": "1",
+            "departure": {
+                "ICAO": "LOWW",
+                "name": "Vienna International Airport",
+                "latitude": 48.110298,
+                "longitude": 16.5697,
+                "municipality": "Vienna",
+                "iso_country": "AT",
+                "iso_region": "AT-9"
+            },
+            "destination": {
+                "ICAO": "OEJN",
+                "name": "King Abdulaziz International Airport",
+                "latitude": 21.6796,
+                "longitude": 39.156502,
+                "municipality": "Jeddah",
+                "iso_country": "SA",
+                "iso_region": "SA-02"
+            }
+        },
+        {
             "route_id": 19,
-            "profit": 61552560,
+            "profit": 62159097,
             "ticketpp": 533,
             "distance": "2932",
             "flown": 2,
@@ -525,7 +525,7 @@
         },
         {
             "route_id": 20,
-            "profit": 56982052,
+            "profit": 57407062,
             "ticketpp": 430,
             "distance": "2367",
             "flown": 3,
@@ -551,7 +551,7 @@
         },
         {
             "route_id": 21,
-            "profit": 56606187,
+            "profit": 56738885,
             "ticketpp": 429,
             "distance": "2361",
             "flown": 4,
@@ -681,7 +681,7 @@
         },
         {
             "route_id": 26,
-            "profit": 45378154,
+            "profit": 45783342,
             "ticketpp": 252,
             "distance": "1389",
             "flown": 2,
@@ -707,6 +707,32 @@
         },
         {
             "route_id": 27,
+            "profit": 41623071,
+            "ticketpp": 232,
+            "distance": "1274",
+            "flown": 7,
+            "verified": "1",
+            "departure": {
+                "ICAO": "LOWW",
+                "name": "Vienna International Airport",
+                "latitude": 48.110298,
+                "longitude": 16.5697,
+                "municipality": "Vienna",
+                "iso_country": "AT",
+                "iso_region": "AT-9"
+            },
+            "destination": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            }
+        },
+        {
+            "route_id": 28,
             "profit": 41343353,
             "ticketpp": 1263,
             "distance": "6949",
@@ -732,34 +758,8 @@
             }
         },
         {
-            "route_id": 28,
-            "profit": 41290311,
-            "ticketpp": 232,
-            "distance": "1274",
-            "flown": 7,
-            "verified": "1",
-            "departure": {
-                "ICAO": "LOWW",
-                "name": "Vienna International Airport",
-                "latitude": 48.110298,
-                "longitude": 16.5697,
-                "municipality": "Vienna",
-                "iso_country": "AT",
-                "iso_region": "AT-9"
-            },
-            "destination": {
-                "ICAO": "EGLL",
-                "name": "London Heathrow Airport",
-                "latitude": 51.4706,
-                "longitude": -0.461941,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            }
-        },
-        {
             "route_id": 29,
-            "profit": 40372257,
+            "profit": 40553816,
             "ticketpp": 419,
             "distance": "2306",
             "flown": 3,
@@ -785,7 +785,7 @@
         },
         {
             "route_id": 30,
-            "profit": 39490184,
+            "profit": 39935750,
             "ticketpp": 279,
             "distance": "1537",
             "flown": 2,
@@ -837,7 +837,7 @@
         },
         {
             "route_id": 32,
-            "profit": 36251180,
+            "profit": 36748590,
             "ticketpp": 574,
             "distance": "3160",
             "flown": 1,
@@ -863,7 +863,7 @@
         },
         {
             "route_id": 33,
-            "profit": 36104348,
+            "profit": 36342522,
             "ticketpp": 474,
             "distance": "2609",
             "flown": 2,
@@ -889,7 +889,7 @@
         },
         {
             "route_id": 34,
-            "profit": 34772920,
+            "profit": 35043354,
             "ticketpp": 328,
             "distance": "1804",
             "flown": 3,
@@ -915,7 +915,7 @@
         },
         {
             "route_id": 35,
-            "profit": 33842251,
+            "profit": 33929537,
             "ticketpp": 262,
             "distance": "1443",
             "flown": 2,
@@ -941,7 +941,7 @@
         },
         {
             "route_id": 36,
-            "profit": 33732167,
+            "profit": 33891110,
             "ticketpp": 414,
             "distance": "2278",
             "flown": 1,
@@ -967,33 +967,7 @@
         },
         {
             "route_id": 37,
-            "profit": 31639227,
-            "ticketpp": 309,
-            "distance": "1702",
-            "flown": 2,
-            "verified": "1",
-            "departure": {
-                "ICAO": "LOWW",
-                "name": "Vienna International Airport",
-                "latitude": 48.110298,
-                "longitude": 16.5697,
-                "municipality": "Vienna",
-                "iso_country": "AT",
-                "iso_region": "AT-9"
-            },
-            "destination": {
-                "ICAO": "LTAI",
-                "name": "Antalya International Airport",
-                "latitude": 36.898701,
-                "longitude": 30.800501,
-                "municipality": "Antalya",
-                "iso_country": "TR",
-                "iso_region": "TR-07"
-            }
-        },
-        {
-            "route_id": 38,
-            "profit": 31635933,
+            "profit": 31890351,
             "ticketpp": 309,
             "distance": "1702",
             "flown": 3,
@@ -1018,8 +992,34 @@
             }
         },
         {
+            "route_id": 38,
+            "profit": 31846986,
+            "ticketpp": 309,
+            "distance": "1702",
+            "flown": 2,
+            "verified": "1",
+            "departure": {
+                "ICAO": "LOWW",
+                "name": "Vienna International Airport",
+                "latitude": 48.110298,
+                "longitude": 16.5697,
+                "municipality": "Vienna",
+                "iso_country": "AT",
+                "iso_region": "AT-9"
+            },
+            "destination": {
+                "ICAO": "LTAI",
+                "name": "Antalya International Airport",
+                "latitude": 36.898701,
+                "longitude": 30.800501,
+                "municipality": "Antalya",
+                "iso_country": "TR",
+                "iso_region": "TR-07"
+            }
+        },
+        {
             "route_id": 39,
-            "profit": 28403282,
+            "profit": 28473387,
             "ticketpp": 265,
             "distance": "1458",
             "flown": 2,
@@ -1045,7 +1045,7 @@
         },
         {
             "route_id": 40,
-            "profit": 28386276,
+            "profit": 28456946,
             "ticketpp": 266,
             "distance": "1461",
             "flown": 1,
@@ -1071,7 +1071,7 @@
         },
         {
             "route_id": 41,
-            "profit": 27920683,
+            "profit": 27971481,
             "ticketpp": 222,
             "distance": "1224",
             "flown": 6,
@@ -1175,7 +1175,7 @@
         },
         {
             "route_id": 45,
-            "profit": 26702251,
+            "profit": 26947501,
             "ticketpp": 320,
             "distance": "1759",
             "flown": 1,
@@ -1227,7 +1227,7 @@
         },
         {
             "route_id": 47,
-            "profit": 25127622,
+            "profit": 25260326,
             "ticketpp": 209,
             "distance": "1148",
             "flown": 1,
@@ -1253,7 +1253,7 @@
         },
         {
             "route_id": 48,
-            "profit": 25120950,
+            "profit": 25160045,
             "ticketpp": 370,
             "distance": "2037",
             "flown": 1,
@@ -1305,7 +1305,7 @@
         },
         {
             "route_id": 50,
-            "profit": 19049687,
+            "profit": 19095715,
             "ticketpp": 174,
             "distance": "959",
             "flown": 2,
@@ -1383,7 +1383,7 @@
         },
         {
             "route_id": 53,
-            "profit": 17817453,
+            "profit": 17979250,
             "ticketpp": 188,
             "distance": "1035",
             "flown": 4,
@@ -1435,7 +1435,7 @@
         },
         {
             "route_id": 55,
-            "profit": 15412823,
+            "profit": 15488167,
             "ticketpp": 234,
             "distance": "1287",
             "flown": 1,
@@ -1461,7 +1461,7 @@
         },
         {
             "route_id": 56,
-            "profit": 14470900,
+            "profit": 14670153,
             "ticketpp": 207,
             "distance": "1139",
             "flown": 1,
@@ -1565,7 +1565,7 @@
         },
         {
             "route_id": 60,
-            "profit": 10830899,
+            "profit": 10949881,
             "ticketpp": 148,
             "distance": "817",
             "flown": 2,
@@ -1617,7 +1617,7 @@
         },
         {
             "route_id": 62,
-            "profit": 10597121,
+            "profit": 10646145,
             "ticketpp": 233,
             "distance": "1280",
             "flown": 8,
@@ -1669,7 +1669,7 @@
         },
         {
             "route_id": 64,
-            "profit": 8439804,
+            "profit": 8543205,
             "ticketpp": 194,
             "distance": "1067",
             "flown": 2,
@@ -1695,7 +1695,7 @@
         },
         {
             "route_id": 65,
-            "profit": 6770347,
+            "profit": 6825073,
             "ticketpp": 144,
             "distance": "791",
             "flown": 2,
@@ -1721,7 +1721,7 @@
         },
         {
             "route_id": 66,
-            "profit": 6435050,
+            "profit": 6563462,
             "ticketpp": 362,
             "distance": "1993",
             "flown": 1,
@@ -1747,7 +1747,7 @@
         },
         {
             "route_id": 67,
-            "profit": 6109508,
+            "profit": 6280564,
             "ticketpp": 462,
             "distance": "2545",
             "flown": 1,
@@ -1799,7 +1799,7 @@
         },
         {
             "route_id": 69,
-            "profit": 5008862,
+            "profit": 5079876,
             "ticketpp": 319,
             "distance": "1758",
             "flown": 3,
@@ -1825,7 +1825,7 @@
         },
         {
             "route_id": 70,
-            "profit": 3222533,
+            "profit": 3242650,
             "ticketpp": 78,
             "distance": "432",
             "flown": 6,
