@@ -1,7 +1,7 @@
 {
     "name": "AVIAN Air (AVA)",
     "id": "100172",
-    "updateTimestamp": 1740530440.7068958,
+    "updateTimestamp": 1740616856.388791,
     "routes": [
         {
             "route_id": 0,
@@ -369,7 +369,7 @@
         },
         {
             "route_id": 14,
-            "profit": 69064375,
+            "profit": 69280667,
             "ticketpp": 344,
             "distance": "1895",
             "flown": 2,
@@ -1695,7 +1695,7 @@
         },
         {
             "route_id": 65,
-            "profit": 7229316,
+            "profit": 7440890,
             "ticketpp": 362,
             "distance": "1993",
             "flown": 1,
@@ -1799,7 +1799,7 @@
         },
         {
             "route_id": 69,
-            "profit": 5683324,
+            "profit": 5840345,
             "ticketpp": 319,
             "distance": "1758",
             "flown": 3,
