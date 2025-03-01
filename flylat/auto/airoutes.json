@@ -436,5 +436,65 @@
         "Name": "N111AX",
         "Departure": "KJFK",
         "Destination": "KMIA"
+    },
+    {
+        "Route": "LAXYVR339",
+        "Name": "N112AX",
+        "Departure": "KLAX",
+        "Destination": "CYVR"
+    },
+    {
+        "Route": "LAXDEN321",
+        "Name": "N113AX",
+        "Departure": "KLAX",
+        "Destination": "KDEN"
+    },
+    {
+        "Route": "JFKATL321",
+        "Name": "N114AX",
+        "Departure": "KJFK",
+        "Destination": "KATL"
+    },
+    {
+        "Route": "MUCLHR321",
+        "Name": "D-AVAD",
+        "Departure": "EDDM",
+        "Destination": "EGLL"
+    },
+    {
+        "Route": "MUCDUB320",
+        "Name": "D-AVAE",
+        "Departure": "EDDM",
+        "Destination": "EIDW"
+    },
+    {
+        "Route": "MUCOSL320",
+        "Name": "D-AVAF",
+        "Departure": "EDDM",
+        "Destination": "ENGM"
+    },
+    {
+        "Route": "MUCBCN321",
+        "Name": "D-AVAG",
+        "Departure": "EDDM",
+        "Destination": "LEBL"
+    },
+    {
+        "Route": "MUCATH321",
+        "Name": "D-AVAH",
+        "Departure": "EDDM",
+        "Destination": "LGAV"
+    },
+    {
+        "Route": "MUCPMO320",
+        "Name": "D-AVAI",
+        "Departure": "EDDM",
+        "Destination": "LICJ"
+    },
+    {
+        "Route": "BCNTFS321",
+        "Name": "EC-AVC",
+        "Departure": "LEBL",
+        "Destination": "GCTS"
     }
 ]
