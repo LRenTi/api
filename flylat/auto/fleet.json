@@ -494,5 +494,55 @@
             "Name": "B-LAE",
             "occupied": "AI",
             "Hub": "VHHH"
+        },
+	{
+            "Name": "N112AX",
+            "occupied": "AI",
+            "Hub": "KLAX"
+        },
+	{
+            "Name": "N113AX",
+            "occupied": "AI",
+            "Hub": "KLAX"
+        },
+	{
+            "Name": "N114AX",
+            "occupied": "AI",
+            "Hub": "KJFK"
+        },
+	{
+            "Name": "D-AVAD",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "D-AVAE",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "D-AVAF",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "D-AVAG",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "D-AVAH",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "D-AVAI",
+            "occupied": "AI",
+            "Hub": "EDDM"
+        },
+	{
+            "Name": "EC-AVC",
+            "occupied": "AI",
+            "Hub": "LEBL"
         }
 ]
