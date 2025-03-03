@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1740876255.9413137,
+    "updateTimestamp": 1740962579.6335175,
     "routes": [
         {
             "route_id": 0,
@@ -1334,7 +1334,7 @@
             "profit": 68729,
             "ticketpp": 101,
             "distance": "556",
-            "flown": 7,
+            "flown": 8,
             "verified": "1",
             "departure": {
                 "ICAO": "EKCH",
@@ -2138,6 +2138,32 @@
         {
             "route_id": 82,
             "profit": 0,
+            "ticketpp": 158,
+            "distance": "1382",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "EIDW",
+                "name": "Dublin Airport",
+                "latitude": 53.421299,
+                "longitude": -6.27007,
+                "municipality": "Dublin",
+                "iso_country": "IE",
+                "iso_region": "IE-D"
+            }
+        },
+        {
+            "route_id": 83,
+            "profit": 0,
             "ticketpp": 90,
             "distance": "493",
             "flown": 0,
@@ -2162,7 +2188,7 @@
             }
         },
         {
-            "route_id": 83,
+            "route_id": 84,
             "profit": 0,
             "ticketpp": 188,
             "distance": "1035",
@@ -2188,7 +2214,7 @@
             }
         },
         {
-            "route_id": 84,
+            "route_id": 85,
             "profit": 0,
             "ticketpp": 169,
             "distance": "932",
@@ -2214,7 +2240,7 @@
             }
         },
         {
-            "route_id": 85,
+            "route_id": 86,
             "profit": 0,
             "ticketpp": 360,
             "distance": "1983",
@@ -2240,7 +2266,7 @@
             }
         },
         {
-            "route_id": 86,
+            "route_id": 87,
             "profit": 0,
             "ticketpp": 153,
             "distance": "841",
@@ -2266,7 +2292,7 @@
             }
         },
         {
-            "route_id": 87,
+            "route_id": 88,
             "profit": 0,
             "ticketpp": 144,
             "distance": "795",
@@ -2292,7 +2318,7 @@
             }
         },
         {
-            "route_id": 88,
+            "route_id": 89,
             "profit": 0,
             "ticketpp": 315,
             "distance": "1735",
@@ -2318,7 +2344,7 @@
             }
         },
         {
-            "route_id": 89,
+            "route_id": 90,
             "profit": 0,
             "ticketpp": 1372,
             "distance": "7547",
@@ -2344,7 +2370,7 @@
             }
         },
         {
-            "route_id": 90,
+            "route_id": 91,
             "profit": 0,
             "ticketpp": 1409,
             "distance": "7752",
@@ -2370,7 +2396,7 @@
             }
         },
         {
-            "route_id": 91,
+            "route_id": 92,
             "profit": 0,
             "ticketpp": 1410,
             "distance": "7758",
@@ -2396,7 +2422,7 @@
             }
         },
         {
-            "route_id": 92,
+            "route_id": 93,
             "profit": 0,
             "ticketpp": 1390,
             "distance": "7649",
@@ -2422,7 +2448,7 @@
             }
         },
         {
-            "route_id": 93,
+            "route_id": 94,
             "profit": 0,
             "ticketpp": 1369,
             "distance": "7534",
