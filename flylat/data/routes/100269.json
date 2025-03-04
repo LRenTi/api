@@ -1,11 +1,11 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1740962579.6335175,
+    "updateTimestamp": 1741048917.079262,
     "routes": [
         {
             "route_id": 0,
-            "profit": 11665443,
+            "profit": 12109125,
             "ticketpp": 1178,
             "distance": "6480",
             "flown": 1,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 6345389,
+            "profit": 6872459,
             "ticketpp": 830,
             "distance": "4565",
             "flown": 1,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 6147148,
+            "profit": 6551026,
             "ticketpp": 1776,
             "distance": "9773",
             "flown": 1,
@@ -83,7 +83,7 @@
         },
         {
             "route_id": 3,
-            "profit": 5675970,
+            "profit": 6297749,
             "ticketpp": 1701,
             "distance": "9358",
             "flown": 1,
@@ -109,33 +109,7 @@
         },
         {
             "route_id": 4,
-            "profit": 5548459,
-            "ticketpp": 933,
-            "distance": "5136",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
-            },
-            "destination": {
-                "ICAO": "OOMS",
-                "name": "Muscat International Airport",
-                "latitude": 23.593299865722656,
-                "longitude": 58.284400939941406,
-                "municipality": "Muscat",
-                "iso_country": "OM",
-                "iso_region": "OM-MA"
-            }
-        },
-        {
-            "route_id": 5,
-            "profit": 5541284,
+            "profit": 6153216,
             "ticketpp": 876,
             "distance": "4819",
             "flown": 1,
@@ -160,8 +134,8 @@
             }
         },
         {
-            "route_id": 6,
-            "profit": 5529107,
+            "route_id": 5,
+            "profit": 6133961,
             "ticketpp": 1601,
             "distance": "8806",
             "flown": 1,
@@ -186,8 +160,34 @@
             }
         },
         {
+            "route_id": 6,
+            "profit": 6033243,
+            "ticketpp": 933,
+            "distance": "5136",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "OOMS",
+                "name": "Muscat International Airport",
+                "latitude": 23.593299865722656,
+                "longitude": 58.284400939941406,
+                "municipality": "Muscat",
+                "iso_country": "OM",
+                "iso_region": "OM-MA"
+            }
+        },
+        {
             "route_id": 7,
-            "profit": 4076151,
+            "profit": 4255472,
             "ticketpp": 1124,
             "distance": "6182",
             "flown": 1,
@@ -239,33 +239,7 @@
         },
         {
             "route_id": 9,
-            "profit": 3278472,
-            "ticketpp": 147,
-            "distance": "809",
-            "flown": 10,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
-            }
-        },
-        {
-            "route_id": 10,
-            "profit": 3172679,
+            "profit": 3404405,
             "ticketpp": 782,
             "distance": "4302",
             "flown": 1,
@@ -287,6 +261,32 @@
                 "municipality": "Doha",
                 "iso_country": "QA",
                 "iso_region": "QA-DA"
+            }
+        },
+        {
+            "route_id": 10,
+            "profit": 3383080,
+            "ticketpp": 147,
+            "distance": "809",
+            "flown": 10,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
             }
         },
         {
@@ -369,7 +369,7 @@
         },
         {
             "route_id": 14,
-            "profit": 1720713,
+            "profit": 1832004,
             "ticketpp": 171,
             "distance": "941",
             "flown": 4,
@@ -395,33 +395,7 @@
         },
         {
             "route_id": 15,
-            "profit": 1535587,
-            "ticketpp": 281,
-            "distance": "1548",
-            "flown": 2,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "LTFM",
-                "name": "İstanbul Airport",
-                "latitude": 41.261297,
-                "longitude": 28.741951,
-                "municipality": "Arnavutköy, Istanbul",
-                "iso_country": "TR",
-                "iso_region": "TR-34"
-            }
-        },
-        {
-            "route_id": 16,
-            "profit": 1504020,
+            "profit": 1693320,
             "ticketpp": 687,
             "distance": "8801",
             "flown": 3,
@@ -446,8 +420,34 @@
             }
         },
         {
+            "route_id": 16,
+            "profit": 1654174,
+            "ticketpp": 281,
+            "distance": "1548",
+            "flown": 2,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "LTFM",
+                "name": "İstanbul Airport",
+                "latitude": 41.261297,
+                "longitude": 28.741951,
+                "municipality": "Arnavutköy, Istanbul",
+                "iso_country": "TR",
+                "iso_region": "TR-34"
+            }
+        },
+        {
             "route_id": 17,
-            "profit": 1497355,
+            "profit": 1614545,
             "ticketpp": 205,
             "distance": "1130",
             "flown": 9,
@@ -473,6 +473,58 @@
         },
         {
             "route_id": 18,
+            "profit": 1511902,
+            "ticketpp": 182,
+            "distance": "1004",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "LFPG",
+                "name": "Charles de Gaulle International Airport",
+                "latitude": 49.012798,
+                "longitude": 2.55,
+                "municipality": "Paris",
+                "iso_country": "FR",
+                "iso_region": "FR-IDF"
+            }
+        },
+        {
+            "route_id": 19,
+            "profit": 1428176,
+            "ticketpp": 178,
+            "distance": "978",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            }
+        },
+        {
+            "route_id": 20,
             "profit": 1415206,
             "ticketpp": 242,
             "distance": "1330",
@@ -498,7 +550,7 @@
             }
         },
         {
-            "route_id": 19,
+            "route_id": 21,
             "profit": 1379112,
             "ticketpp": 1668,
             "distance": "9179",
@@ -524,33 +576,7 @@
             }
         },
         {
-            "route_id": 20,
-            "profit": 1361114,
-            "ticketpp": 182,
-            "distance": "1004",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
-            },
-            "destination": {
-                "ICAO": "LFPG",
-                "name": "Charles de Gaulle International Airport",
-                "latitude": 49.012798,
-                "longitude": 2.55,
-                "municipality": "Paris",
-                "iso_country": "FR",
-                "iso_region": "FR-IDF"
-            }
-        },
-        {
-            "route_id": 21,
+            "route_id": 22,
             "profit": 1351330,
             "ticketpp": 1641,
             "distance": "9029",
@@ -576,33 +602,33 @@
             }
         },
         {
-            "route_id": 22,
-            "profit": 1280592,
-            "ticketpp": 178,
-            "distance": "978",
+            "route_id": 23,
+            "profit": 1155503,
+            "ticketpp": 239,
+            "distance": "1317",
             "flown": 1,
             "verified": "1",
             "departure": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
             },
             "destination": {
-                "ICAO": "EGLL",
-                "name": "London Heathrow Airport",
-                "latitude": 51.4706,
-                "longitude": -0.461941,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
+                "ICAO": "ENGM",
+                "name": "Oslo Gardermoen Airport",
+                "latitude": 60.193901062012,
+                "longitude": 11.100399971008,
+                "municipality": "Oslo",
+                "iso_country": "NO",
+                "iso_region": "NO-02"
             }
         },
         {
-            "route_id": 23,
+            "route_id": 24,
             "profit": 1118034,
             "ticketpp": 337,
             "distance": "1854",
@@ -628,7 +654,59 @@
             }
         },
         {
-            "route_id": 24,
+            "route_id": 25,
+            "profit": 1102817,
+            "ticketpp": 591,
+            "distance": "3254",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "GCLP",
+                "name": "Gran Canaria Airport",
+                "latitude": 27.931900024414062,
+                "longitude": -15.38659954071045,
+                "municipality": "Gran Canaria Island",
+                "iso_country": "ES",
+                "iso_region": "ES-CN"
+            }
+        },
+        {
+            "route_id": 26,
+            "profit": 1074422,
+            "ticketpp": 279,
+            "distance": "1535",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "LIRF",
+                "name": "Leonardo da Vinci–Fiumicino Airport",
+                "latitude": 41.8002778,
+                "longitude": 12.2388889,
+                "municipality": "Rome",
+                "iso_country": "IT",
+                "iso_region": "IT-62"
+            }
+        },
+        {
+            "route_id": 27,
             "profit": 1029582,
             "ticketpp": 226,
             "distance": "1241",
@@ -654,86 +732,8 @@
             }
         },
         {
-            "route_id": 25,
-            "profit": 1028953,
-            "ticketpp": 239,
-            "distance": "1317",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "ENGM",
-                "name": "Oslo Gardermoen Airport",
-                "latitude": 60.193901062012,
-                "longitude": 11.100399971008,
-                "municipality": "Oslo",
-                "iso_country": "NO",
-                "iso_region": "NO-02"
-            }
-        },
-        {
-            "route_id": 26,
-            "profit": 976017,
-            "ticketpp": 591,
-            "distance": "3254",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "GCLP",
-                "name": "Gran Canaria Airport",
-                "latitude": 27.931900024414062,
-                "longitude": -15.38659954071045,
-                "municipality": "Gran Canaria Island",
-                "iso_country": "ES",
-                "iso_region": "ES-CN"
-            }
-        },
-        {
-            "route_id": 27,
-            "profit": 909532,
-            "ticketpp": 279,
-            "distance": "1535",
-            "flown": 1,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
-            },
-            "destination": {
-                "ICAO": "LIRF",
-                "name": "Leonardo da Vinci–Fiumicino Airport",
-                "latitude": 41.8002778,
-                "longitude": 12.2388889,
-                "municipality": "Rome",
-                "iso_country": "IT",
-                "iso_region": "IT-62"
-            }
-        },
-        {
             "route_id": 28,
-            "profit": 872341,
+            "profit": 955226,
             "ticketpp": 132,
             "distance": "728",
             "flown": 6,
@@ -837,7 +837,7 @@
         },
         {
             "route_id": 32,
-            "profit": 486355,
+            "profit": 628175,
             "ticketpp": 221,
             "distance": "1215",
             "flown": 1,
@@ -863,7 +863,7 @@
         },
         {
             "route_id": 33,
-            "profit": 482069,
+            "profit": 580364,
             "ticketpp": 147,
             "distance": "811",
             "flown": 4,
