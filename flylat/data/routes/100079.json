@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1741480616.229274,
+    "updateTimestamp": 1741566940.5791793,
     "routes": [
         {
             "route_id": 0,
@@ -2003,6 +2003,58 @@
                 "municipality": "Tromsø",
                 "iso_country": "NO",
                 "iso_region": "NO-19"
+            }
+        },
+        {
+            "route_id": 77,
+            "profit": 0,
+            "ticketpp": 247,
+            "distance": "2624",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "GMAD",
+                "name": "Al Massira Airport",
+                "latitude": 30.322478,
+                "longitude": -9.412003,
+                "municipality": "Agadir (Temsia)",
+                "iso_country": "MA",
+                "iso_region": "MA-AGD"
+            }
+        },
+        {
+            "route_id": 78,
+            "profit": 0,
+            "ticketpp": 235,
+            "distance": "2465",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "GMAD",
+                "name": "Al Massira Airport",
+                "latitude": 30.322478,
+                "longitude": -9.412003,
+                "municipality": "Agadir (Temsia)",
+                "iso_country": "MA",
+                "iso_region": "MA-AGD"
             }
         }
     ]
