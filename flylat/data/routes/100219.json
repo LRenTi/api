@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1741653719.0312557,
+    "updateTimestamp": 1741740101.369303,
     "routes": [
         {
             "route_id": 0,
@@ -11760,8 +11760,8 @@
             "profit": 0,
             "ticketpp": 830,
             "distance": "4569",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KORD",
                 "name": "Chicago O'Hare International Airport",
