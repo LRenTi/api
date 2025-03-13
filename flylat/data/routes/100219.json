@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1741740101.369303,
+    "updateTimestamp": 1741826544.922826,
     "routes": [
         {
             "route_id": 0,
@@ -15010,8 +15010,8 @@
             "profit": 0,
             "ticketpp": 685,
             "distance": "3771",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KLAX",
                 "name": "Los Angeles International Airport",
