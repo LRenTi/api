@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1741912885.149282,
+    "updateTimestamp": 1741999278.169684,
     "routes": [
         {
             "route_id": 0,
@@ -840,7 +840,7 @@
             "profit": 617124,
             "ticketpp": 215,
             "distance": "1185",
-            "flown": 4,
+            "flown": 5,
             "verified": "1",
             "departure": {
                 "ICAO": "EGSS",
@@ -1620,7 +1620,7 @@
             "profit": 56960,
             "ticketpp": 224,
             "distance": "1233",
-            "flown": 2,
+            "flown": 3,
             "verified": "1",
             "departure": {
                 "ICAO": "LEBL",
