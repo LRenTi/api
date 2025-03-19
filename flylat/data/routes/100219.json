@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1742258534.2781272,
+    "updateTimestamp": 1742344957.11342,
     "routes": [
         {
             "route_id": 0,
@@ -9602,7 +9602,7 @@
             "profit": 5816,
             "ticketpp": 51,
             "distance": "280",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KORD",
@@ -11838,8 +11838,8 @@
             "profit": 0,
             "ticketpp": 245,
             "distance": "1350",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KONT",
                 "name": "Ontario International Airport",
@@ -15816,8 +15816,8 @@
             "profit": 0,
             "ticketpp": 472,
             "distance": "2597",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDFW",
                 "name": "Dallas Fort Worth International Airport",
@@ -20418,8 +20418,8 @@
             "profit": 0,
             "ticketpp": 166,
             "distance": "1493",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDFW",
                 "name": "Dallas Fort Worth International Airport",
