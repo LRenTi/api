@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1742344951.5649116,
+    "updateTimestamp": 1742431300.4118118,
     "routes": [
         {
             "route_id": 0,
@@ -2036,8 +2036,8 @@
             "profit": 0,
             "ticketpp": 235,
             "distance": "2465",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "EGLL",
                 "name": "London Heathrow Airport",

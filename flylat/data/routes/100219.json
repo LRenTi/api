@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1742344957.11342,
+    "updateTimestamp": 1742431305.0126047,
     "routes": [
         {
             "route_id": 0,
@@ -12878,8 +12878,8 @@
             "profit": 0,
             "ticketpp": 509,
             "distance": "2802",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KLAX",
                 "name": "Los Angeles International Airport",
@@ -18338,8 +18338,8 @@
             "profit": 0,
             "ticketpp": 153,
             "distance": "1306",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KORD",
                 "name": "Chicago O'Hare International Airport",
@@ -20054,8 +20054,8 @@
             "profit": 0,
             "ticketpp": 102,
             "distance": "602",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KATL",
                 "name": "Hartsfield Jackson Atlanta International Airport",
@@ -20132,8 +20132,8 @@
             "profit": 0,
             "ticketpp": 106,
             "distance": "648",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KMEM",
                 "name": "Memphis International Airport",
