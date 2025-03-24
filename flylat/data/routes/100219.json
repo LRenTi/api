@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (YELL)",
     "id": "100219",
-    "updateTimestamp": 1742690775.6984217,
+    "updateTimestamp": 1742777070.2895234,
     "routes": [
         {
             "route_id": 0,
@@ -15452,8 +15452,8 @@
             "profit": 0,
             "ticketpp": 140,
             "distance": "772",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSAN",
                 "name": "San Diego International Airport",
@@ -16518,8 +16518,8 @@
             "profit": 0,
             "ticketpp": 155,
             "distance": "854",
-            "flown": 0,
-            "verified": "0",
+            "flown": 3,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSLC",
                 "name": "Salt Lake City International Airport",
@@ -16544,8 +16544,8 @@
             "profit": 0,
             "ticketpp": 265,
             "distance": "1459",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDEN",
                 "name": "Denver International Airport",
@@ -20574,8 +20574,8 @@
             "profit": 0,
             "ticketpp": 113,
             "distance": "756",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KMCO",
                 "name": "Orlando International Airport",
@@ -20600,8 +20600,8 @@
             "profit": 0,
             "ticketpp": 118,
             "distance": "819",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KTPA",
                 "name": "Tampa International Airport",
