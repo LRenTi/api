@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1743381964.8149464,
+    "updateTimestamp": 1743468633.9015849,
     "routes": [
         {
             "route_id": 0,
@@ -681,6 +681,32 @@
         },
         {
             "route_id": 26,
+            "profit": 1516718,
+            "ticketpp": 112,
+            "distance": "628",
+            "flown": 12,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EDDF",
+                "name": "Frankfurt am Main Airport",
+                "latitude": 50.033333,
+                "longitude": 8.570556,
+                "municipality": "Frankfurt am Main",
+                "iso_country": "DE",
+                "iso_region": "DE-HE"
+            }
+        },
+        {
+            "route_id": 27,
             "profit": 1481595,
             "ticketpp": 267,
             "distance": "1469",
@@ -703,32 +729,6 @@
                 "municipality": "London",
                 "iso_country": "GB",
                 "iso_region": "GB-ENG"
-            }
-        },
-        {
-            "route_id": 27,
-            "profit": 1455898,
-            "ticketpp": 112,
-            "distance": "628",
-            "flown": 12,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EDDF",
-                "name": "Frankfurt am Main Airport",
-                "latitude": 50.033333,
-                "longitude": 8.570556,
-                "municipality": "Frankfurt am Main",
-                "iso_country": "DE",
-                "iso_region": "DE-HE"
             }
         },
         {
