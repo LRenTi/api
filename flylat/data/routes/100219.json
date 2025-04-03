@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1743554624.5439975,
+    "updateTimestamp": 1743640976.8687162,
     "routes": [
         {
             "route_id": 0,
@@ -20938,8 +20938,8 @@
             "profit": 0,
             "ticketpp": 789,
             "distance": "10236",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KATL",
                 "name": "Hartsfield Jackson Atlanta International Airport",
