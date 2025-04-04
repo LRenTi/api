@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1743640971.9733267,
+    "updateTimestamp": 1743727368.3449693,
     "routes": [
         {
             "route_id": 0,
@@ -161,7 +161,7 @@
         },
         {
             "route_id": 6,
-            "profit": 8558984,
+            "profit": 8577954,
             "ticketpp": 85,
             "distance": "483",
             "flown": 15,
@@ -655,6 +655,32 @@
         },
         {
             "route_id": 25,
+            "profit": 1645176,
+            "ticketpp": 112,
+            "distance": "628",
+            "flown": 12,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EDDF",
+                "name": "Frankfurt am Main Airport",
+                "latitude": 50.033333,
+                "longitude": 8.570556,
+                "municipality": "Frankfurt am Main",
+                "iso_country": "DE",
+                "iso_region": "DE-HE"
+            }
+        },
+        {
+            "route_id": 26,
             "profit": 1640599,
             "ticketpp": 221,
             "distance": "1219",
@@ -677,32 +703,6 @@
                 "municipality": "Vágar",
                 "iso_country": "FO",
                 "iso_region": "FO-U-A"
-            }
-        },
-        {
-            "route_id": 26,
-            "profit": 1516718,
-            "ticketpp": 112,
-            "distance": "628",
-            "flown": 12,
-            "verified": "1",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EDDF",
-                "name": "Frankfurt am Main Airport",
-                "latitude": 50.033333,
-                "longitude": 8.570556,
-                "municipality": "Frankfurt am Main",
-                "iso_country": "DE",
-                "iso_region": "DE-HE"
             }
         },
         {
