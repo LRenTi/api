@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1743727369.9299293,
+    "updateTimestamp": 1743813735.7428088,
     "routes": [
         {
             "route_id": 0,
@@ -1074,8 +1074,8 @@
             "profit": 0,
             "ticketpp": 176,
             "distance": "1633",
-            "flown": 0,
-            "verified": "0",
+            "flown": 2,
+            "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
                 "name": "Manchester Airport",
