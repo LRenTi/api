@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1744591634.3325691,
+    "updateTimestamp": 1744677884.6226227,
     "routes": [
         {
             "route_id": 0,
@@ -450,8 +450,8 @@
             "profit": 1942670,
             "ticketpp": 1748,
             "distance": "9616",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "EDDM",
                 "name": "Munich Airport",
