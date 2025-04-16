@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1744677882.5031579,
+    "updateTimestamp": 1744764295.8267958,
     "routes": [
         {
             "route_id": 0,
@@ -11760,8 +11760,8 @@
             "profit": 0,
             "ticketpp": 1153,
             "distance": "6345",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KORD",
                 "name": "Chicago O'Hare International Airport",
