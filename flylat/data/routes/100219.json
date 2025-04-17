@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1744764295.8267958,
+    "updateTimestamp": 1744850630.9992886,
     "routes": [
         {
             "route_id": 0,
@@ -16050,7 +16050,7 @@
             "profit": 0,
             "ticketpp": 624,
             "distance": "3435",
-            "flown": 1,
+            "flown": 2,
             "verified": "1",
             "departure": {
                 "ICAO": "KSFO",
