@@ -1,7 +1,7 @@
 {
     "name": "Heron Airways (HRN)",
     "id": "100079",
-    "updateTimestamp": 1745455454.770443,
+    "updateTimestamp": 1745541887.9241483,
     "routes": [
         {
             "route_id": 0,
@@ -2081,6 +2081,32 @@
                 "municipality": "Agadir (Temsia)",
                 "iso_country": "MA",
                 "iso_region": "MA-AGD"
+            }
+        },
+        {
+            "route_id": 80,
+            "profit": 0,
+            "ticketpp": 106,
+            "distance": "652",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EDDF",
+                "name": "Frankfurt am Main Airport",
+                "latitude": 50.033333,
+                "longitude": 8.570556,
+                "municipality": "Frankfurt am Main",
+                "iso_country": "DE",
+                "iso_region": "DE-HE"
             }
         }
     ]
