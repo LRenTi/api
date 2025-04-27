@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1745628209.4795036,
+    "updateTimestamp": 1745714936.740403,
     "routes": [
         {
             "route_id": 0,
@@ -684,8 +684,8 @@
             "profit": 1351330,
             "ticketpp": 1641,
             "distance": "9029",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "EKCH",
                 "name": "Copenhagen Kastrup Airport",
