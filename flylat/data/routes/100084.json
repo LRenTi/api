@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1746665173.3162582,
+    "updateTimestamp": 1746751554.7171655,
     "routes": [
         {
             "route_id": 0,
@@ -1412,7 +1412,7 @@
             "profit": 0,
             "ticketpp": 275,
             "distance": "3024",
-            "flown": 2,
+            "flown": 3,
             "verified": "1",
             "departure": {
                 "ICAO": "EGCC",
@@ -2523,6 +2523,32 @@
                 "municipality": "Cork",
                 "iso_country": "IE",
                 "iso_region": "IE-C"
+            }
+        },
+        {
+            "route_id": 97,
+            "profit": 0,
+            "ticketpp": 326,
+            "distance": "3745",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "HECA",
+                "name": "Cairo International Airport",
+                "latitude": 30.12190055847168,
+                "longitude": 31.40559959411621,
+                "municipality": "Cairo",
+                "iso_country": "EG",
+                "iso_region": "EG-C"
             }
         }
     ]
