@@ -1,7 +1,7 @@
 {
     "name": "Soarin (Swallow)",
     "id": "100084",
-    "updateTimestamp": 1747010983.4003406,
+    "updateTimestamp": 1747097190.6950846,
     "routes": [
         {
             "route_id": 0,
@@ -2549,6 +2549,32 @@
                 "municipality": "Cairo",
                 "iso_country": "EG",
                 "iso_region": "EG-C"
+            }
+        },
+        {
+            "route_id": 98,
+            "profit": 0,
+            "ticketpp": 735,
+            "distance": "9471",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "RJAA",
+                "name": "Narita International Airport",
+                "latitude": 35.764702,
+                "longitude": 140.386002,
+                "municipality": "Tokyo",
+                "iso_country": "JP",
+                "iso_region": "JP-12"
             }
         }
     ]
