@@ -1,7 +1,7 @@
 {
     "name": "AVIAN Air (AVA)",
     "id": "100172",
-    "updateTimestamp": 1747097188.2219193,
+    "updateTimestamp": 1747183552.5402982,
     "routes": [
         {
             "route_id": 0,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 137143962,
+            "profit": 137812689,
             "ticketpp": 1637,
             "distance": "9008",
             "flown": 4,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 129773658,
+            "profit": 131200927,
             "ticketpp": 1791,
             "distance": "9854",
             "flown": 6,
@@ -83,7 +83,7 @@
         },
         {
             "route_id": 3,
-            "profit": 124835658,
+            "profit": 125332544,
             "ticketpp": 722,
             "distance": "3974",
             "flown": 1,
@@ -135,7 +135,7 @@
         },
         {
             "route_id": 5,
-            "profit": 121332343,
+            "profit": 121645672,
             "ticketpp": 1007,
             "distance": "5539",
             "flown": 1,
@@ -187,7 +187,7 @@
         },
         {
             "route_id": 7,
-            "profit": 104491840,
+            "profit": 105040866,
             "ticketpp": 1572,
             "distance": "8649",
             "flown": 1,
@@ -213,10 +213,10 @@
         },
         {
             "route_id": 8,
-            "profit": 103671796,
-            "ticketpp": 1499,
-            "distance": "8249",
-            "flown": 1,
+            "profit": 104195957,
+            "ticketpp": 1795,
+            "distance": "9875",
+            "flown": 3,
             "verified": "1",
             "departure": {
                 "ICAO": "LOWW",
@@ -228,18 +228,18 @@
                 "iso_region": "AT-9"
             },
             "destination": {
-                "ICAO": "RKSI",
-                "name": "Incheon International Airport",
-                "latitude": 37.46910095214844,
-                "longitude": 126.45099639892578,
-                "municipality": "Seoul",
-                "iso_country": "KR",
-                "iso_region": "KR-28"
+                "ICAO": "SBGL",
+                "name": "Rio Galeão – Tom Jobim International Airport",
+                "latitude": -22.8099994659,
+                "longitude": -43.2505569458,
+                "municipality": "Rio De Janeiro",
+                "iso_country": "BR",
+                "iso_region": "BR-RJ"
             }
         },
         {
             "route_id": 9,
-            "profit": 103558482,
+            "profit": 103999872,
             "ticketpp": 1550,
             "distance": "8527",
             "flown": 2,
@@ -265,10 +265,10 @@
         },
         {
             "route_id": 10,
-            "profit": 103153617,
-            "ticketpp": 1795,
-            "distance": "9875",
-            "flown": 3,
+            "profit": 103671796,
+            "ticketpp": 1499,
+            "distance": "8249",
+            "flown": 1,
             "verified": "1",
             "departure": {
                 "ICAO": "LOWW",
@@ -280,13 +280,13 @@
                 "iso_region": "AT-9"
             },
             "destination": {
-                "ICAO": "SBGL",
-                "name": "Rio Galeão – Tom Jobim International Airport",
-                "latitude": -22.8099994659,
-                "longitude": -43.2505569458,
-                "municipality": "Rio De Janeiro",
-                "iso_country": "BR",
-                "iso_region": "BR-RJ"
+                "ICAO": "RKSI",
+                "name": "Incheon International Airport",
+                "latitude": 37.46910095214844,
+                "longitude": 126.45099639892578,
+                "municipality": "Seoul",
+                "iso_country": "KR",
+                "iso_region": "KR-28"
             }
         },
         {
@@ -317,7 +317,7 @@
         },
         {
             "route_id": 12,
-            "profit": 97387070,
+            "profit": 97707678,
             "ticketpp": 1536,
             "distance": "8451",
             "flown": 2,
@@ -343,7 +343,7 @@
         },
         {
             "route_id": 13,
-            "profit": 95905361,
+            "profit": 96694861,
             "ticketpp": 1764,
             "distance": "9704",
             "flown": 3,
@@ -369,7 +369,7 @@
         },
         {
             "route_id": 14,
-            "profit": 90126840,
+            "profit": 90420140,
             "ticketpp": 1320,
             "distance": "7264",
             "flown": 1,
@@ -551,7 +551,7 @@
         },
         {
             "route_id": 21,
-            "profit": 75329409,
+            "profit": 75631561,
             "ticketpp": 1354,
             "distance": "7452",
             "flown": 3,
@@ -577,7 +577,7 @@
         },
         {
             "route_id": 22,
-            "profit": 74792679,
+            "profit": 75441026,
             "ticketpp": 1263,
             "distance": "6949",
             "flown": 1,
@@ -603,7 +603,7 @@
         },
         {
             "route_id": 23,
-            "profit": 74756205,
+            "profit": 75187033,
             "ticketpp": 1524,
             "distance": "8384",
             "flown": 5,
@@ -681,7 +681,7 @@
         },
         {
             "route_id": 26,
-            "profit": 69877637,
+            "profit": 70126474,
             "ticketpp": 747,
             "distance": "4108",
             "flown": 1,
@@ -707,7 +707,7 @@
         },
         {
             "route_id": 27,
-            "profit": 58848032,
+            "profit": 59064132,
             "ticketpp": 1237,
             "distance": "6804",
             "flown": 3,
@@ -733,7 +733,7 @@
         },
         {
             "route_id": 28,
-            "profit": 56151500,
+            "profit": 56918350,
             "ticketpp": 1630,
             "distance": "8967",
             "flown": 1,
@@ -785,7 +785,7 @@
         },
         {
             "route_id": 30,
-            "profit": 51876342,
+            "profit": 51990868,
             "ticketpp": 574,
             "distance": "3160",
             "flown": 1,
@@ -993,7 +993,7 @@
         },
         {
             "route_id": 38,
-            "profit": 40674360,
+            "profit": 41179760,
             "ticketpp": 1170,
             "distance": "6436",
             "flown": 1,
@@ -1799,7 +1799,7 @@
         },
         {
             "route_id": 69,
-            "profit": 10642348,
+            "profit": 10780830,
             "ticketpp": 408,
             "distance": "2246",
             "flown": 3,

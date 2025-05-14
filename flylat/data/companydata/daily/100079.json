@@ -17441,5 +17441,66 @@
             "jobsoffered": "3",
             "jobsactive": "3"
         }
+    },
+    {
+        "date": "2025-05-13",
+        "data": {
+            "company_id": "100079",
+            "name": "Heron Airways",
+            "callsign": "Heron",
+            "location": "EGSS",
+            "owner_id": "51627",
+            "cash": "$57,326,537.00",
+            "cash_friendly": "$57.33 M",
+            "rep": "0",
+            "cargo_rep": "0",
+            "news": [
+                "Heron Airways recently opened a direct route between London and Nuuk",
+                "People of London and Sorvagur are now happy for a direct connection by Heron Airways",
+                "Heron Airways started flying directly between London and Bergen",
+                "Heron Airways recently opened a direct route between London and Katowice",
+                "People of London and Gdansk are now happy for a direct connection by Heron Airways"
+            ],
+            "week_flights": "0",
+            "discord": "wU2dYsrCPm",
+            "facebook": "",
+            "url": "flylat.net",
+            "verified": "0",
+            "username": "heron",
+            "privacy": "0",
+            "priv_code": null,
+            "avg_landing_rate": "174 fpm",
+            "safety": "Safe",
+            "aircraft_asset": "$192,673,463.00",
+            "assets": "$192,673,463.00",
+            "assets_friendly": "$192.67 M",
+            "flight_count": "1229",
+            "employee_count": "50",
+            "route_count": "7",
+            "vc_aircraft": "6",
+            "vc_hubs": "0",
+            "active_flights": "1",
+            "ai_flights": "0",
+            "total_flights": 1,
+            "airport_name": "Stansted",
+            "airport_city": "London",
+            "airport_country": "United Kingdom",
+            "aircraft_models": [
+                "777-200F",
+                "A320-231",
+                "A321-231",
+                "A350-941"
+            ],
+            "model_counts": [
+                "2",
+                "2",
+                "1",
+                "1"
+            ],
+            "distributions": "1",
+            "description": "",
+            "jobsoffered": "10",
+            "jobsactive": "1"
+        }
     }
 ]

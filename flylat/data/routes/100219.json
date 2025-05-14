@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1747097193.0724058,
+    "updateTimestamp": 1747183556.5059671,
     "routes": [
         {
             "route_id": 0,
@@ -14594,8 +14594,8 @@
             "profit": 0,
             "ticketpp": 380,
             "distance": "2093",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDFW",
                 "name": "Dallas Fort Worth International Airport",
