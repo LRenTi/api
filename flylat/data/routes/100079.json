@@ -1,10 +1,36 @@
 {
     "name": "Heron Airways (Heron)",
     "id": "100079",
-    "updateTimestamp": 1747183553.260187,
+    "updateTimestamp": 1747269917.4842415,
     "routes": [
         {
             "route_id": 0,
+            "profit": 23885,
+            "ticketpp": 160,
+            "distance": "1413",
+            "flown": 0,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPWA",
+                "name": "Warsaw Chopin Airport",
+                "latitude": 52.1656990051,
+                "longitude": 20.967100143399996,
+                "municipality": "Warsaw",
+                "iso_country": "PL",
+                "iso_region": "PL-MZ"
+            }
+        },
+        {
+            "route_id": 1,
             "profit": 0,
             "ticketpp": 290,
             "distance": "3232",
@@ -30,7 +56,7 @@
             }
         },
         {
-            "route_id": 1,
+            "route_id": 2,
             "profit": 0,
             "ticketpp": 146,
             "distance": "1219",
@@ -56,7 +82,7 @@
             }
         },
         {
-            "route_id": 2,
+            "route_id": 3,
             "profit": 0,
             "ticketpp": 130,
             "distance": "983",
@@ -82,7 +108,7 @@
             }
         },
         {
-            "route_id": 3,
+            "route_id": 4,
             "profit": 0,
             "ticketpp": 153,
             "distance": "1319",
@@ -108,7 +134,7 @@
             }
         },
         {
-            "route_id": 4,
+            "route_id": 5,
             "profit": 0,
             "ticketpp": 148,
             "distance": "1245",
@@ -134,7 +160,7 @@
             }
         },
         {
-            "route_id": 5,
+            "route_id": 6,
             "profit": 0,
             "ticketpp": 158,
             "distance": "1380",
@@ -157,32 +183,6 @@
                 "municipality": "Kraków",
                 "iso_country": "PL",
                 "iso_region": "PL-MA"
-            }
-        },
-        {
-            "route_id": 6,
-            "profit": 0,
-            "ticketpp": 160,
-            "distance": "1413",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
-                "municipality": "London",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
-            },
-            "destination": {
-                "ICAO": "EPWA",
-                "name": "Warsaw Chopin Airport",
-                "latitude": 52.1656990051,
-                "longitude": 20.967100143399996,
-                "municipality": "Warsaw",
-                "iso_country": "PL",
-                "iso_region": "PL-MZ"
             }
         }
     ]
