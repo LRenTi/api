@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1747356434.5297503,
+    "updateTimestamp": 1747442704.8276908,
     "routes": [
         {
             "route_id": 0,
@@ -476,7 +476,7 @@
             "profit": 1928505,
             "ticketpp": 205,
             "distance": "1130",
-            "flown": 9,
+            "flown": 10,
             "verified": "1",
             "departure": {
                 "ICAO": "EDDM",

@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1747356430.924658,
+    "updateTimestamp": 1747442700.1270704,
     "routes": [
         {
             "route_id": 0,
@@ -12566,8 +12566,8 @@
             "profit": 0,
             "ticketpp": 247,
             "distance": "2637",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "YMML",
                 "name": "Melbourne International Airport",
@@ -14646,8 +14646,8 @@
             "profit": 0,
             "ticketpp": 807,
             "distance": "4441",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "PHNL",
                 "name": "Daniel K Inouye International Airport",
@@ -15556,8 +15556,8 @@
             "profit": 0,
             "ticketpp": 1116,
             "distance": "6139",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KORD",
                 "name": "Chicago O'Hare International Airport",
