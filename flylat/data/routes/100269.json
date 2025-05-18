@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1747442704.8276908,
+    "updateTimestamp": 1747529494.0956867,
     "routes": [
         {
             "route_id": 0,
@@ -2133,6 +2133,32 @@
                 "municipality": "Fort-de-France",
                 "iso_country": "MQ",
                 "iso_region": "MQ-U-A"
+            }
+        },
+        {
+            "route_id": 82,
+            "profit": 0,
+            "ticketpp": 130,
+            "distance": "993",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
             }
         }
     ]
