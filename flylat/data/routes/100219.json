@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1747702086.4044082,
+    "updateTimestamp": 1747788425.9698236,
     "routes": [
         {
             "route_id": 0,
@@ -12358,8 +12358,8 @@
             "profit": 0,
             "ticketpp": 562,
             "distance": "3093",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSEA",
                 "name": "Seattle Tacoma International Airport",
@@ -14620,8 +14620,8 @@
             "profit": 0,
             "ticketpp": 336,
             "distance": "1846",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KMIA",
                 "name": "Miami International Airport",
@@ -18182,8 +18182,8 @@
             "profit": 0,
             "ticketpp": 131,
             "distance": "1007",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDEN",
                 "name": "Denver International Airport",
@@ -19482,8 +19482,8 @@
             "profit": 0,
             "ticketpp": 157,
             "distance": "1367",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KDEN",
                 "name": "Denver International Airport",
