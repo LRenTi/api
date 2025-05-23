@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1747874759.2934108,
+    "updateTimestamp": 1747961196.0791616,
     "routes": [
         {
             "route_id": 0,
@@ -13008,8 +13008,8 @@
             "profit": 0,
             "ticketpp": 227,
             "distance": "1248",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KJFK",
                 "name": "John F Kennedy International Airport",
@@ -16986,8 +16986,8 @@
             "profit": 0,
             "ticketpp": 480,
             "distance": "2641",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSEA",
                 "name": "Seattle Tacoma International Airport",
