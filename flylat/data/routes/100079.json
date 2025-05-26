@@ -1,14 +1,14 @@
 {
     "name": "Heron Airways (Heron)",
     "id": "100079",
-    "updateTimestamp": 1748134367.8114755,
+    "updateTimestamp": 1748220525.5511394,
     "routes": [
         {
             "route_id": 0,
-            "profit": 200885,
+            "profit": 270825,
             "ticketpp": 160,
             "distance": "1413",
-            "flown": 0,
+            "flown": 1,
             "verified": "1",
             "departure": {
                 "ICAO": "EGSS",
@@ -31,6 +31,58 @@
         },
         {
             "route_id": 1,
+            "profit": 79592,
+            "ticketpp": 148,
+            "distance": "1245",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPGD",
+                "name": "Gdańsk Lech Wałęsa Airport",
+                "latitude": 54.377601623535156,
+                "longitude": 18.46619987487793,
+                "municipality": "Gdańsk",
+                "iso_country": "PL",
+                "iso_region": "PL-PM"
+            }
+        },
+        {
+            "route_id": 2,
+            "profit": 72494,
+            "ticketpp": 158,
+            "distance": "1380",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EGSS",
+                "name": "London Stansted Airport",
+                "latitude": 51.8849983215,
+                "longitude": 0.234999999404,
+                "municipality": "London",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            },
+            "destination": {
+                "ICAO": "EPKK",
+                "name": "Kraków John Paul II International Airport",
+                "latitude": 50.077702,
+                "longitude": 19.7848,
+                "municipality": "Kraków",
+                "iso_country": "PL",
+                "iso_region": "PL-MA"
+            }
+        },
+        {
+            "route_id": 3,
             "profit": 0,
             "ticketpp": 290,
             "distance": "3232",
@@ -56,10 +108,10 @@
             }
         },
         {
-            "route_id": 2,
+            "route_id": 4,
             "profit": 0,
-            "ticketpp": 146,
-            "distance": "1219",
+            "ticketpp": 103,
+            "distance": "617",
             "flown": 0,
             "verified": "0",
             "departure": {
@@ -72,17 +124,17 @@
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "EKVG",
-                "name": "Vágar Airport",
-                "latitude": 62.063599,
-                "longitude": -7.27722,
-                "municipality": "Vágar",
-                "iso_country": "FO",
-                "iso_region": "FO-U-A"
+                "ICAO": "EDDF",
+                "name": "Frankfurt am Main Airport",
+                "latitude": 50.033333,
+                "longitude": 8.570556,
+                "municipality": "Frankfurt am Main",
+                "iso_country": "DE",
+                "iso_region": "DE-HE"
             }
         },
         {
-            "route_id": 3,
+            "route_id": 5,
             "profit": 0,
             "ticketpp": 130,
             "distance": "983",
@@ -108,7 +160,7 @@
             }
         },
         {
-            "route_id": 4,
+            "route_id": 6,
             "profit": 0,
             "ticketpp": 153,
             "distance": "1319",
@@ -134,36 +186,36 @@
             }
         },
         {
-            "route_id": 5,
+            "route_id": 7,
             "profit": 0,
-            "ticketpp": 148,
-            "distance": "1245",
+            "ticketpp": 160,
+            "distance": "1408",
             "flown": 0,
             "verified": "0",
             "departure": {
-                "ICAO": "EGSS",
-                "name": "London Stansted Airport",
-                "latitude": 51.8849983215,
-                "longitude": 0.234999999404,
+                "ICAO": "EGLL",
+                "name": "London Heathrow Airport",
+                "latitude": 51.4706,
+                "longitude": -0.461941,
                 "municipality": "London",
                 "iso_country": "GB",
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "EPGD",
-                "name": "Gdańsk Lech Wałęsa Airport",
-                "latitude": 54.377601623535156,
-                "longitude": 18.46619987487793,
-                "municipality": "Gdańsk",
-                "iso_country": "PL",
-                "iso_region": "PL-PM"
+                "ICAO": "LEIB",
+                "name": "Ibiza Airport",
+                "latitude": 38.872898,
+                "longitude": 1.37312,
+                "municipality": "Ibiza",
+                "iso_country": "ES",
+                "iso_region": "ES-PM"
             }
         },
         {
-            "route_id": 6,
+            "route_id": 8,
             "profit": 0,
-            "ticketpp": 158,
-            "distance": "1380",
+            "ticketpp": 146,
+            "distance": "1219",
             "flown": 0,
             "verified": "0",
             "departure": {
@@ -176,13 +228,13 @@
                 "iso_region": "GB-ENG"
             },
             "destination": {
-                "ICAO": "EPKK",
-                "name": "Kraków John Paul II International Airport",
-                "latitude": 50.077702,
-                "longitude": 19.7848,
-                "municipality": "Kraków",
-                "iso_country": "PL",
-                "iso_region": "PL-MA"
+                "ICAO": "EKVG",
+                "name": "Vágar Airport",
+                "latitude": 62.063599,
+                "longitude": -7.27722,
+                "municipality": "Vágar",
+                "iso_country": "FO",
+                "iso_region": "FO-U-A"
             }
         }
     ]

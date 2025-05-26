@@ -1,7 +1,7 @@
 {
     "name": "Apollo Airways (APA)",
     "id": "100269",
-    "updateTimestamp": 1748134374.947316,
+    "updateTimestamp": 1748220545.982596,
     "routes": [
         {
             "route_id": 0,
@@ -1800,58 +1800,6 @@
         {
             "route_id": 69,
             "profit": 0,
-            "ticketpp": 150,
-            "distance": "826",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EDDH",
-                "name": "Hamburg Helmut Schmidt Airport",
-                "latitude": 53.630402,
-                "longitude": 9.98823,
-                "municipality": "Hamburg",
-                "iso_country": "DE",
-                "iso_region": "DE-HH"
-            },
-            "destination": {
-                "ICAO": "ESSA",
-                "name": "Stockholm-Arlanda Airport",
-                "latitude": 59.651901245117,
-                "longitude": 17.918600082397,
-                "municipality": "Stockholm",
-                "iso_country": "SE",
-                "iso_region": "SE-AB"
-            }
-        },
-        {
-            "route_id": 70,
-            "profit": 0,
-            "ticketpp": 124,
-            "distance": "682",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "LFPG",
-                "name": "Charles de Gaulle International Airport",
-                "latitude": 49.012798,
-                "longitude": 2.55,
-                "municipality": "Paris",
-                "iso_country": "FR",
-                "iso_region": "FR-IDF"
-            }
-        },
-        {
-            "route_id": 71,
-            "profit": 0,
             "ticketpp": 394,
             "distance": "2167",
             "flown": 0,
@@ -1876,33 +1824,7 @@
             }
         },
         {
-            "route_id": 72,
-            "profit": 0,
-            "ticketpp": 225,
-            "distance": "1239",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "LICC",
-                "name": "Catania-Fontanarossa Airport",
-                "latitude": 37.466801,
-                "longitude": 15.0664,
-                "municipality": "Catania",
-                "iso_country": "IT",
-                "iso_region": "IT-82"
-            }
-        },
-        {
-            "route_id": 73,
+            "route_id": 70,
             "profit": 0,
             "ticketpp": 212,
             "distance": "1169",
@@ -1928,7 +1850,33 @@
             }
         },
         {
-            "route_id": 74,
+            "route_id": 71,
+            "profit": 0,
+            "ticketpp": 130,
+            "distance": "993",
+            "flown": 1,
+            "verified": "1",
+            "departure": {
+                "ICAO": "EKCH",
+                "name": "Copenhagen Kastrup Airport",
+                "latitude": 55.617900848389,
+                "longitude": 12.656000137329,
+                "municipality": "Copenhagen",
+                "iso_country": "DK",
+                "iso_region": "DK-84"
+            },
+            "destination": {
+                "ICAO": "EGCC",
+                "name": "Manchester Airport",
+                "latitude": 53.349375,
+                "longitude": -2.279521,
+                "municipality": "Manchester",
+                "iso_country": "GB",
+                "iso_region": "GB-ENG"
+            }
+        },
+        {
+            "route_id": 72,
             "profit": 0,
             "ticketpp": 158,
             "distance": "1382",
@@ -1954,7 +1902,7 @@
             }
         },
         {
-            "route_id": 75,
+            "route_id": 73,
             "profit": 0,
             "ticketpp": 144,
             "distance": "795",
@@ -1980,7 +1928,85 @@
             }
         },
         {
+            "route_id": 74,
+            "profit": 0,
+            "ticketpp": 150,
+            "distance": "826",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDH",
+                "name": "Hamburg Helmut Schmidt Airport",
+                "latitude": 53.630402,
+                "longitude": 9.98823,
+                "municipality": "Hamburg",
+                "iso_country": "DE",
+                "iso_region": "DE-HH"
+            },
+            "destination": {
+                "ICAO": "ESSA",
+                "name": "Stockholm-Arlanda Airport",
+                "latitude": 59.651901245117,
+                "longitude": 17.918600082397,
+                "municipality": "Stockholm",
+                "iso_country": "SE",
+                "iso_region": "SE-AB"
+            }
+        },
+        {
+            "route_id": 75,
+            "profit": 0,
+            "ticketpp": 124,
+            "distance": "682",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "LFPG",
+                "name": "Charles de Gaulle International Airport",
+                "latitude": 49.012798,
+                "longitude": 2.55,
+                "municipality": "Paris",
+                "iso_country": "FR",
+                "iso_region": "FR-IDF"
+            }
+        },
+        {
             "route_id": 76,
+            "profit": 0,
+            "ticketpp": 225,
+            "distance": "1239",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "LICC",
+                "name": "Catania-Fontanarossa Airport",
+                "latitude": 37.466801,
+                "longitude": 15.0664,
+                "municipality": "Catania",
+                "iso_country": "IT",
+                "iso_region": "IT-82"
+            }
+        },
+        {
+            "route_id": 77,
             "profit": 0,
             "ticketpp": 315,
             "distance": "1735",
@@ -2006,59 +2032,7 @@
             }
         },
         {
-            "route_id": 77,
-            "profit": 0,
-            "ticketpp": 1372,
-            "distance": "7547",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EDDM",
-                "name": "Munich Airport",
-                "latitude": 48.353802,
-                "longitude": 11.7861,
-                "municipality": "Munich",
-                "iso_country": "DE",
-                "iso_region": "DE-BY"
-            },
-            "destination": {
-                "ICAO": "TBPB",
-                "name": "Grantley Adams International Airport",
-                "latitude": 13.0746,
-                "longitude": -59.4925,
-                "municipality": "Bridgetown",
-                "iso_country": "BB",
-                "iso_region": "BB-01"
-            }
-        },
-        {
             "route_id": 78,
-            "profit": 0,
-            "ticketpp": 1409,
-            "distance": "7752",
-            "flown": 0,
-            "verified": "0",
-            "departure": {
-                "ICAO": "EKCH",
-                "name": "Copenhagen Kastrup Airport",
-                "latitude": 55.617900848389,
-                "longitude": 12.656000137329,
-                "municipality": "Copenhagen",
-                "iso_country": "DK",
-                "iso_region": "DK-84"
-            },
-            "destination": {
-                "ICAO": "MDPC",
-                "name": "Punta Cana International Airport",
-                "latitude": 18.567399978599997,
-                "longitude": -68.36340332030001,
-                "municipality": "Punta Cana",
-                "iso_country": "DO",
-                "iso_region": "DO-11"
-            }
-        },
-        {
-            "route_id": 79,
             "profit": 0,
             "ticketpp": 1410,
             "distance": "7758",
@@ -2084,10 +2058,10 @@
             }
         },
         {
-            "route_id": 80,
+            "route_id": 79,
             "profit": 0,
-            "ticketpp": 1390,
-            "distance": "7649",
+            "ticketpp": 1409,
+            "distance": "7752",
             "flown": 0,
             "verified": "0",
             "departure": {
@@ -2100,13 +2074,39 @@
                 "iso_region": "DK-84"
             },
             "destination": {
-                "ICAO": "TFFF",
-                "name": "Martinique Aimé Césaire International Airport",
-                "latitude": 14.591,
-                "longitude": -61.003201,
-                "municipality": "Fort-de-France",
-                "iso_country": "MQ",
-                "iso_region": "MQ-U-A"
+                "ICAO": "MDPC",
+                "name": "Punta Cana International Airport",
+                "latitude": 18.567399978599997,
+                "longitude": -68.36340332030001,
+                "municipality": "Punta Cana",
+                "iso_country": "DO",
+                "iso_region": "DO-11"
+            }
+        },
+        {
+            "route_id": 80,
+            "profit": 0,
+            "ticketpp": 1372,
+            "distance": "7547",
+            "flown": 0,
+            "verified": "0",
+            "departure": {
+                "ICAO": "EDDM",
+                "name": "Munich Airport",
+                "latitude": 48.353802,
+                "longitude": 11.7861,
+                "municipality": "Munich",
+                "iso_country": "DE",
+                "iso_region": "DE-BY"
+            },
+            "destination": {
+                "ICAO": "TBPB",
+                "name": "Grantley Adams International Airport",
+                "latitude": 13.0746,
+                "longitude": -59.4925,
+                "municipality": "Bridgetown",
+                "iso_country": "BB",
+                "iso_region": "BB-01"
             }
         },
         {
@@ -2138,10 +2138,10 @@
         {
             "route_id": 82,
             "profit": 0,
-            "ticketpp": 130,
-            "distance": "993",
-            "flown": 1,
-            "verified": "1",
+            "ticketpp": 1390,
+            "distance": "7649",
+            "flown": 0,
+            "verified": "0",
             "departure": {
                 "ICAO": "EKCH",
                 "name": "Copenhagen Kastrup Airport",
@@ -2152,13 +2152,13 @@
                 "iso_region": "DK-84"
             },
             "destination": {
-                "ICAO": "EGCC",
-                "name": "Manchester Airport",
-                "latitude": 53.349375,
-                "longitude": -2.279521,
-                "municipality": "Manchester",
-                "iso_country": "GB",
-                "iso_region": "GB-ENG"
+                "ICAO": "TFFF",
+                "name": "Martinique Aimé Césaire International Airport",
+                "latitude": 14.591,
+                "longitude": -61.003201,
+                "municipality": "Fort-de-France",
+                "iso_country": "MQ",
+                "iso_region": "MQ-U-A"
             }
         }
     ]
