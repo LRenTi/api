@@ -1,11 +1,11 @@
 {
     "name": "Heron Airways (Heron)",
     "id": "100079",
-    "updateTimestamp": 1748220525.5511394,
+    "updateTimestamp": 1748306725.4606745,
     "routes": [
         {
             "route_id": 0,
-            "profit": 270825,
+            "profit": 364490,
             "ticketpp": 160,
             "distance": "1413",
             "flown": 1,
@@ -31,7 +31,7 @@
         },
         {
             "route_id": 1,
-            "profit": 79592,
+            "profit": 182153,
             "ticketpp": 148,
             "distance": "1245",
             "flown": 1,
@@ -57,7 +57,7 @@
         },
         {
             "route_id": 2,
-            "profit": 72494,
+            "profit": 163625,
             "ticketpp": 158,
             "distance": "1380",
             "flown": 1,
