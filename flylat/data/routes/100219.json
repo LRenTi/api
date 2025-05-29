@@ -1,7 +1,7 @@
 {
     "name": "Rocky Mountain Air (Mountain)",
     "id": "100219",
-    "updateTimestamp": 1748393230.1844141,
+    "updateTimestamp": 1748479639.7107034,
     "routes": [
         {
             "route_id": 0,
@@ -12566,8 +12566,8 @@
             "profit": 0,
             "ticketpp": 591,
             "distance": "7462",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KSEA",
                 "name": "Seattle Tacoma International Airport",
@@ -19560,8 +19560,8 @@
             "profit": 0,
             "ticketpp": 98,
             "distance": "539",
-            "flown": 0,
-            "verified": "0",
+            "flown": 1,
+            "verified": "1",
             "departure": {
                 "ICAO": "KBOI",
                 "name": "Boise Air Terminal/Gowen Field",
