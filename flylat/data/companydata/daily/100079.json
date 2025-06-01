@@ -18539,5 +18539,66 @@
             "jobsoffered": "3",
             "jobsactive": "3"
         }
+    },
+    {
+        "date": "2025-05-31",
+        "data": {
+            "company_id": "100079",
+            "name": "Heron Airways",
+            "callsign": "Heron",
+            "location": "EGSS",
+            "owner_id": "51627",
+            "cash": "$92,793,245.00",
+            "cash_friendly": "$92.79 M",
+            "rep": "366",
+            "cargo_rep": "0",
+            "news": [
+                "People of London and Frankfurt Main are now happy for a direct connection by Heron Airways",
+                "People of London and Ibiza are now happy for a direct connection by Heron Airways",
+                "Heron Airways is now connecting London and Nuuk",
+                "Heron Airways is now connecting London and Sorvagur",
+                "Heron Airways started flying directly between London and Bergen"
+            ],
+            "week_flights": "0",
+            "discord": "wU2dYsrCPm",
+            "facebook": "",
+            "url": "flylat.net",
+            "verified": "0",
+            "username": "heron",
+            "privacy": "0",
+            "priv_code": null,
+            "avg_landing_rate": "175 fpm",
+            "safety": "Safe",
+            "aircraft_asset": "$192,673,463.00",
+            "assets": "$216,673,463.00",
+            "assets_friendly": "$192.67 M",
+            "flight_count": "1265",
+            "employee_count": "22",
+            "route_count": "9",
+            "vc_aircraft": "6",
+            "vc_hubs": "1",
+            "active_flights": "0",
+            "ai_flights": "0",
+            "total_flights": 0,
+            "airport_name": "Stansted",
+            "airport_city": "London",
+            "airport_country": "United Kingdom",
+            "aircraft_models": [
+                "777-200F",
+                "A320-231",
+                "A321-231",
+                "A350-941"
+            ],
+            "model_counts": [
+                "2",
+                "2",
+                "1",
+                "1"
+            ],
+            "distributions": "1",
+            "description": "This airline is managed by the creator of flyLAT. We fly mainly around Europe, with a new hub opening soon in Asia.",
+            "jobsoffered": "3",
+            "jobsactive": "3"
+        }
     }
 ]
