@@ -138,3 +138,8 @@
 2025-06-29 00:54:58,876 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100219: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100219
 2025-06-29 00:54:58,877 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100172: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100172
 2025-06-29 00:54:58,879 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100269: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100269
+2025-06-30 00:52:46,873 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100269: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100269
+2025-06-30 00:52:46,874 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100084: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100084
+2025-06-30 00:52:46,874 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100079: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100079
+2025-06-30 00:52:46,875 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100172: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100172
+2025-06-30 00:52:46,877 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100219: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100219
