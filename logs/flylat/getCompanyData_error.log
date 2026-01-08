@@ -1098,3 +1098,8 @@
 2026-01-07 00:52:38,369 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100079: 415 Client Error: Unsupported Media Type for url: https://flylat.net/company/get_data.php?id=100079
 2026-01-07 00:52:38,371 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100219: 415 Client Error: Unsupported Media Type for url: https://flylat.net/company/get_data.php?id=100219
 2026-01-07 00:52:38,373 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100172: 415 Client Error: Unsupported Media Type for url: https://flylat.net/company/get_data.php?id=100172
+2026-01-08 00:52:26,216 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100172: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100172
+2026-01-08 00:52:26,219 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100269: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100269
+2026-01-08 00:52:26,220 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100079: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100079
+2026-01-08 00:52:26,220 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100084: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100084
+2026-01-08 00:52:26,221 - ERROR - Fehler beim Abrufen der Daten von https://flylat.net/company/get_data.php?id=100219: 403 Client Error: Forbidden for url: https://flylat.net/company/get_data.php?id=100219
